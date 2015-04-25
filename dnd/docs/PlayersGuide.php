@@ -57,7 +57,7 @@ CONTENTS;
 						the sandbox and had straight B's your whole life. Regardless of the
 						fact that your mom told you how special you really were, you never 
 						really quite achieved anything in life besides winning the 4th grade
-						spelling bee. Being average these days however is quite rare.
+						spelling bee. Being average these days, however, is quite rare.
 						
 						<ul>
 						<li>1 extra feat</li>
@@ -69,7 +69,7 @@ CONTENTS;
 					
 					<h2>Android</h2>
 					<p>
-						Forged from the steel of machines and the flesh of man your human
+						Forged from the steel of machines and the flesh of man, your human
 						ailments are no more. You may choose robotic limbs of your liking 
 						and you are able to get future upgrades for them in the future, 
 						dependent upon the fact that you can find someone to do it.
@@ -92,7 +92,7 @@ CONTENTS;
 						falling out. Your appearance causes many to flee but can cause your
 						enemies to tremble. Because of these circumstances you have been 
 						blessed with the gift, or curse, of an extended life. Your average 
-						ghoul can have a nice life of 300 years, that is of course if he 
+						ghoul can have a nice life of 300 years, that is, of course, if he 
 						makes it that long.
 
 						<ul>
@@ -110,12 +110,12 @@ CONTENTS;
 					<p>
 						Radiation at birth is a sad and rare occurrence indeed. More often 
 						than ever, irradiated young are abandoned due to their abnormalities
-						and rapid declining mental state. Fortunately for you though you 
+						and rapid declining mental state. Fortunately for you though, you 
 						love having a third limb! That extra hand really is useful for an 
 						extra pistol or the fact that your alien sized eyes	make you see 
-						that much better. Of course with every good thing there is a bad 
-						one. Choose wisely.
-						<ul>
+						things with much more clarity. But beware, no blessing is without
+						its curse. Choose wisely.
+						
 						<li>1 helpful abnormality</li>
 						<li>1 inhibiting mutation</li>
 						<li>-3 radiation resistance</li>
@@ -170,9 +170,9 @@ CONTENTS;
 					<h3>Special</h3>
 					<p>
 					As a marine you are prepared for any situation. As such you are able to
-					develop extra feats to stay on top of the opponent. Because of your 
-					finesse with guns, all your weapon skills (pistols, rifles, heavy weapons) 
-					have the chance to go up as well due to all the warfare you encounter.
+					develop extra feats to stay on top of the opponent or add +1 to
+					all your weapon skills (pistols, rifles, heavy weapons). Your finese with
+					guns and expertise in warfare have forged you into a killing machine.
 					</p>
 
 					<br/>
@@ -209,11 +209,11 @@ CONTENTS;
 					
 					<h3>Special</h3>
 					<p>
-					The hardships of the waste have pushed savages beyond the point of no
+					The hardships of The Waste have pushed savages beyond the point of no
 					return. Separated from humanity for most of their life time, Savages have
-					lost many of their human characteristics and have grown to become one of 
-					its natural(?) inhabitants. At level 1 savages may have an animal familiar
-					and later have an animal companion at level 5. They may also berserk going
+					lost many of their human characteristics and have grown to become as another radiated monster
+					of The Waste. At level 1, savages may have an animal familiar
+					and later have an animal companion at level 5. They may also berserk, going
 					into a rage and dealing more damage but taking more at the same time from
 					reckless attacking.
 					</p>
@@ -257,10 +257,10 @@ CONTENTS;
 					
 					<h3>Special</h3>
 					<p>
-						Med School has taught you a thing or two but unfortunately the waste has 
-						little to offer in medical supplies. However with crude tools you are able
-						to create makeshift tools to help others while venturing around. You are
-						able to heal others by means of crude bandages and field surgery as well
+						Med School has taught you a thing or two but unfortunately The Waste has 
+						little to offer in medical supplies. However, with crude tools, you are able
+						to create makeshift tools to help others while venturing. You are
+						able to heal others by means of makeshift bandages and field surgery as well
 						as resurrect friends from the grave with a DIY defibrillator. A chemo recipe
 						is later discovered to cure those inflicted with radiation poisoning. 
 					</p>
@@ -323,7 +323,7 @@ CONTENTS;
 					<p>
 					You are a master of the night. Your career up to this point has been due 
 					to the misfortunes of others. You have a knack for taking things that don't
-					belong to you and have an irresistible urge towards shiny metal objects. 
+					belong to you and are irresistibly drawn towards shiny, metal objects. 
 					Your stealth attack can be activated when attacking foes from out of sight.
 					Your keen senses give you a bonus against disabling traps as well as 
 					towards saves against them.
@@ -364,12 +364,11 @@ CONTENTS;
 					
 					<h3>Special</h3>
 					<p>
-					Live, hunt, survive. That is the motto that you have given yourself as you
+					Live, hunt, survive; That is the motto that you have given yourself as you
 					have journeyed across the barren land. Your instincts, and your
 					humanity are the only thing that separate you from the other lost souls
-					that you have encountered. Your skill in hunting grants you extra bonuses
-					as you fight against your favorite foes. You have gained animal alliances
-					and the ability to track your next meal as well.
+					that you have encountered. Through your survival skills, you have also gained
+					animal alliances and the ability to track your next meal.
 					</p>
 					
 					<h3>Track</h3>
@@ -421,7 +420,7 @@ CONTENTS;
 					<p>
 						As a lad you enjoyed taking the toaster apart and back together again at
 						least 4 different ways. At age 16 you could apply the same principle to 
-						a car engine. At age 19 you hacked the PSN and almost got thrown in federal
+						a car engine. At age 19, you hacked the PSN and almost got thrown in federal
 						prison for it. Armed with your knowledge of mathematics, Java, and 
 						rudimentary robotics, you are able to construct a robot familiar and later
 						gather enough parts for a robotic companion. Although you are the only person
@@ -520,7 +519,7 @@ CONTENTS;
 						
 					<h3>CRAFT</h3>
 						<p class="subtext">
-						The ability to create items from schematics found in the wastes
+						The ability to create items from schematics found in The Waste
 						<br/>
 						<table>
 						<caption>DC</caption>
@@ -567,7 +566,7 @@ CONTENTS;
 
 					<h3>ESCAPE ARTIST</h3>
 						<p class="subtext">
-						Escape from your bonds with this
+						Used to escape from bondage
 						<br/><br/>
 						DC depends on obstacle
 						</p>
@@ -579,11 +578,11 @@ CONTENTS;
 
 					<h3>FORGERY</h3>
 						<p class="subtext">
-						Be able to create false documents with this
+						Ability to create false documents
 						<br/><br/>
 						DC compares against opponents Wisdom check
 						</br><br/>
-						*need nessisary tools and materials for the forgery
+						*Requires nessisary tools and materials for the forgery
 						</p>
 
 					<h3>GATHER INFORMATION</h3>
@@ -592,7 +591,7 @@ CONTENTS;
 							<br/>
 						<table>
 						<caption>DC</caption>
-						<tr><td><12</td><td>Find less than you wanted to know </td></tr>
+						<tr><td><12</td><td>Find out less than you wanted to know </td></tr>
 						<tr><td>13-18</td><td>Find out specifically what you wanted to know</td></tr>
 						<tr><td>>19</td><td>Find out what you wanted to know and perhaps more</td></tr>
 						</table>
@@ -602,7 +601,7 @@ CONTENTS;
 						
 					<h3>HANDLE ANIMAL</h3>
 						<p class="subtext">
-						How nice animals react to you
+						Determines how friendly animals react to you 
 						<br/><br/>
 						DC compares to animals to animals Charisma check
 						</p>
@@ -632,7 +631,7 @@ CONTENTS;
 						
 					<h3>INTIMIDATE</h3>
 					<p class="subtext">
-						How well you can scare the pants off others
+						Determines how well you can scare the pants off others
 						<br/><br/>
 						DC compares against enemy Bluff check
 						</p>
@@ -646,7 +645,7 @@ CONTENTS;
 
 					<h3>KNOWLEDGE</h3>
 					<p class="subtext">
-						Can determine your understanding of a subject
+						Determines your understanding of a subject
 						<br/><br/>
 						DC depends on subject or situation
 						</p>
@@ -660,7 +659,7 @@ CONTENTS;
 
 					<h3>MEDICINE</h3>
 					<p class="subtext">
-						Effectiveness with medicines and a scalpel to recover
+						Effectiveness with medicines and a scalpel to recover health
 						<br/><br/>
 						DC depends on drug/treatment being applied
 						</p>
@@ -672,7 +671,7 @@ CONTENTS;
 
 					<h3>MOVE SILENTLY</h3>
 					<p class="subtext">
-						How well you can sneak so others don't notice
+						How well you can sneak unnoticed by others
 						<br/><br/>
 						DC compares against enemy Listen check
 						</p>
@@ -710,17 +709,17 @@ CONTENTS;
 
 					<h3>SENSE MOTIVE</h3>
 					<p class="subtext">
-						Be able to detect if someone is lying
+						Determines your ability to detect if someone is lying
 						</p>
 
 					<h3>SLEIGHT OF HAND</h3>
 					<p class="subtext">
-						How well you are able to steal with out attracting attention
+						Determines your ability to steal with out attracting attention
 						</p>
 
 					<h3>SPOT</h3>
 					<p class="subtext">
-						Ability to identify things that others would simply pass by
+						Determines your ability to identify things that others would simply pass by
 						</p>
 
 					<h3>SURVIVAL</h3>
@@ -730,7 +729,7 @@ CONTENTS;
 
 					<h3>SWIM</h3>
 					<p class="subtext">
-						Whether you sink or swim
+						Determines whether you sink or swim
 						</p>
 					
 					
@@ -752,13 +751,13 @@ CONTENTS;
 					<h3>Radical!</h3>
 					<p class="subtext">
 						Exposure to radiation has given you a natural 
-						immunity to radiation poisoning. +4 rad resistance
+						immunity to radiation poisoning. +4 Radiation Resistance
 						</p>
 
 					<h3>Scar tissue</h3>
 					<p class="subtext">
 						You are given a bonus for past battles and the 
-						experience from it +1 constitution
+						experience from it. +1 Constitution
 						</p>
 						
 					<h3>Blade master</h3>
@@ -770,7 +769,7 @@ CONTENTS;
 					<h3>Mathlete</h3>
 					<p class="subtext">
 						You are as nerdy as they come
-						+3 decking
+						+3 Decking
 						</p>
 
 					<h3>Iron Gut</h3>
@@ -787,19 +786,19 @@ CONTENTS;
 
 					<h3>Tinker</h3>
 					<p class="subtext">
-						Get +1 to open lock, electronics, and decking
+						Get +1 to Open Lock, Electronics, and Decking
 						</p>
 
 					<h3>Iron chef</h3>
 					<p class="subtext">
 						Get a bonus to cooking for culinary school
-						+4 to cooking
+						+4 to Cooking
 						</p>
 
 					<h3>Dancing lessons</h3>
 					<p class="subtext">
-						Mom embarrassed you as a child and made you take em
-						+3 to reflex saves
+						Mom embarrassed you as a child and made you take 'em
+						+3 Reflex Saves
 						</p>
 
 					<h3>Duel wielding</h3>
@@ -811,7 +810,7 @@ CONTENTS;
 					<h3>Al Queda</h3>
 					<p class="subtext">
 						You like rifles, you get a +3 proficiency to 
-						the rifle skill
+						the Rifle skill
 						</p>
 
 					<h3>Firebat</h3>
@@ -823,26 +822,26 @@ CONTENTS;
 					<h3>Arnold</h3>
 					<p class="subtext">
 						The best gun is the biggest gun
-						+3 to heavy weapon skill.
+						+3 to Heavy Weapon skill.
 						</p>
 
 					<h3>Sheriff Rick</h3>
 					<p class="subtext">
 						Pistols are more your style
-						+3 to pistols skill
+						+3 to Pistols skill
 						</p>
 
 					<h3>Fullmetal Alchemist</h3>
 					<p class="subtext">
 						In addition you receive a custom cocktail from the 
-						DM that only you can make +3 to Science 
+						DM that only you can make. +3 Science 
 						</p>
 						
 					<h3>Black widow </h3>
 					<p class="subtext">
-						You have a sexy side and when bluffing, bargaining,
-						talking diplomatically with the opposite gender 
-						you gain a +3 to rolls
+						You have a sexy side and when bluffing, bargaining, and
+						talking diplomatically with the opposite gender. 
+						You gain a +3 to rolls when doing so.
 						</p>
 
 					<h3>Cat like reflexes</h3>
@@ -854,14 +853,14 @@ CONTENTS;
 
 					<h3>Asian</h3>
 					<p class="subtext">
-						You are just better for some reason
+						You are just better for some reason.
 						+1 any ability score permanently
 						</p>
 
 					<h3>Kamikaze</h3>
 					<p class="subtext">
-						Boom goes the dynamite
-						+3 to explosives skill
+						Boom goes the dynamite.
+						+3 to Explosives skill
 						</p>
 
 					<h3>Metaclorians</h3>
@@ -885,7 +884,7 @@ CONTENTS;
 					<h3>Scrap bolts (100 voltz)</h3>
 					<p class="subtext">
 						Represents 1 lb of small metal objects. Items may be 
-						converted to scrap metal but not vice versa. Used in
+						converted to scrap metal but not vice-versa. Used in
 						various schematics and considered versatile when 
 						fixing things as well. Can be obtained from any 
 						mechanical structure but such structure is disassembled 
@@ -904,7 +903,7 @@ CONTENTS;
 						last meal. Foods can be crafted	and obtained other ways 
 						though. Normal food give off 1d10 radiation points when 
 						consumed. Well prepared organic food gives significantly
-						more health and is not irradiated, good luck finding it 
+						more health and is not irradiated. Good luck finding it 
 						though. 
 						</p>
 
@@ -939,7 +938,7 @@ CONTENTS;
 					<h3>Crystal</h3>
 					<p class="subtext">
 						Recent drug activity has started circulation of 
-						methamphetamines and a particular one known as crystal
+						methamphetamines, and a particular one called "Crystal" is
 						known for its slight blue hue and its effects on reflex 
 						reactions. Of course too much of a good thing couldn't 
 						possibly be bad.
@@ -951,7 +950,7 @@ CONTENTS;
 					<h3>StimPak</h3>
 					<p class="subtext">
 						Government circulation of StimPaks have made this drug
-						a common site in the wastes as people find a way to 
+						a common site in The Wastes as people find a way to 
 						get rid of nerves and prepare for battle. Increased 
 						blood flow in the user makes blood clotting occur at 
 						a much slower rate which has its effects as well.	
@@ -962,9 +961,9 @@ CONTENTS;
 							
 					<h3>Rage</h3>
 					<p class="subtext">
-						Users of the street drug known as rage have been 
+						Users of the street drug known as Rage have been 
 						reported as unstoppable. Rapid muscle growth and cell 
-						division are some common effects from this drug but a
+						division are some common effects from this drug, but a
 						deterioration of brain matter seems to compensate for
 						the sudden change in muscle mass. 
 						<br/><br/>
@@ -977,12 +976,12 @@ CONTENTS;
 					<h3>Baseball Bat (1d6+1) (crit 19-20 x2)</h3>
 					<p class="subtext">
 						Hit a homer with this crude weapon. Hit as hard as 
-						you want but has a 10% chance to break each swing.
+						you want but has a 5% chance to break each swing.
 						</p>
 
 					<h3>Improvised blunt weapon(1d4+2) (crit 20 x2)</h3>
 					<p class="subtext">
-						Don't have much? use anything blunt! has 30% chance
+						Don't have much? Use anything blunt! Has 5% chance
 						to fail and break.
 						</p>
 
@@ -1008,22 +1007,30 @@ CONTENTS;
 					<h2>RANGED WEAPONS</h2>
 					
 					<p>
-					*Size of ammo adds damage*<br/>
+					<h3>Weight Conversion</h3>
 					*20 shells = 1 lb*
 					</p>
 					
-					<h3>Damage per bullet</h3>
-					<p class="subtext">
-						.22 = 0<br/>
-						9mm = 1<br/>
-						.380 = 1<br/>
-						5.56 = 2<br/>
-						.45 = 2<br/>
-						.30 = 2<br/>
-						.308 = 4<br/>
+					<h3>Bullet Sizes</h3>
+					<p>
+						.22 <br/>
+						9mm <br/>
+						.380 <br/>
+						5.56 <br/>
+						.45 <br/>
+						.30 <br/>
+						.308 <br/>
 						<br/><br/>
-						-shell = 2<br/>
-						-slug = 3
+						shell <br/>
+						slug 
+					</p>
+					
+					<h3>Damage per bullet type</h3>
+					<p class="subtext">
+						Hull Point = +1
+						Armor Penetrating = +2
+						Explosive = +2
+						Dragons Breath = +1d4 fire damage
 					</p>
 					
 					<p>
@@ -1149,6 +1156,24 @@ CONTENTS;
 					<p>
 					Your turn consists of 1 movement and 1 attack or 2 movements.
 					When your character levels up enough they will be able to make 2 attack moves.
+					You have unlimited "free" actions like talking, or pointing. Drawing your weapon is
+					a free action but will cause an attack of opportunity. Standing up from a prone position
+					counts as 1 movement action.
+					</p>
+					
+					<h2>Attack of Opportunity</h2>
+					<p>
+					Attacks of opportunity are extra attacks that ajacent enemies may take when certain actions
+					are taken. Examples of this are:
+					<ul>
+						<li>Drawing your weapon</li>
+						<li>Running next to an enemy without attacking it</li>
+						<li>Standing up from a prone position</li>
+						<li>Running away from an enemy without attacking it</li>
+					</ul>
+					
+					You may move away from an enemy when in combat but this will take 1 movement action and you
+					will only travel 5 ft. This is known as a "safe" move.
 					</p>
 
 					<h2>Attacking</h2>
@@ -1156,8 +1181,8 @@ CONTENTS;
 					Attack roll: Any weapon - use d20 and add weapon skill/3
 					<br/><br/>		 
 								 
-					Damage roll: Melee - use weapon damage dice plus str modifier plus weapon skill/3
-								 Ranged - use weapon damage dice plus bullet damage weapon skill/3
+					Damage roll: Melee - use weapon damage dice + str modifier
+								 Ranged - use weapon damage dice + bullet type damage 
 					<br/><br/>			 
 					Ammo: Each ranged weapon has a fire rate. Fire rate determines ammunition used to make a single successful attack per turn.
 					</p>
@@ -1168,7 +1193,7 @@ CONTENTS;
 					<br/><br/>
 					ex: You have a radiation resistance of 5. You eat some food that makes you take 1d10 of radiation. 
 						You roll a 4. Because 4 < 5 you take no effect from it. You then fall into a trap and take 7 radiation from
-						water. 7 > 5 therefore you take on 7 points of radiation. 
+						water. 7 > 5 (your resistance) therefore you take on 2 points of radiation because 7 - 5 = 2.
 					<br/><br/>
 					The effects of radiation are determined as such:
 					</p>
@@ -1209,16 +1234,16 @@ CONTENTS;
 					
 					<p>
 					
-					ARC weaponry are used quite differently in that they use ARC batteries
+					ARC weaponry use ARC batteries
 					which are a miracle in the technological world. ARC batteries are able
-					to self recharge per 24 hours. The energy stored within them has such
-					high voltage though that they are rendered almost useless as they short
-					circuit anything connected to them. Because of their mysterious origins,
-					some say that this stored energy is nuclear where others claim it to be
+					to self-recharge per 24 hours. The energy stored within them has such
+					high voltage that they shor circuit any conventional electronics, which renders them almost useless. 
+					Because of their mysterious origins,
+					some say that this stored energy is nuclear while others claim it to be
 					of another world. Despite the technology that actually surrounds these 
-					batteries, there are select devices that are found throughout the waste
+					batteries, there are select devices that are found throughout The Waste
 					that are able to harness this energy. Most usable devices are in forms
-					of weapons and require an amount of wattage per use. Each ARC battery 
+					of weapons and require an amount of wattage per use. An ARC battery's wattage 
 					is recharged at the end of each day.
 					<br/><br/>
 					Saving throws can be made against ARC weapons are made as such:

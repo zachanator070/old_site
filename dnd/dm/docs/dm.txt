@@ -812,8 +812,7 @@ Common (Junk)
 	
 Uncommon (crafting materials)
 
-	3 Volt Batteries
-	9 Volt Batteries
+	Batteries
 	scrap metal
 	rubber hose
 	metal hose
@@ -840,11 +839,17 @@ Rare items (manufacured goods)
 	lighter
 	rotting food
 	pilot light
-	gun parts
-		-hilt
-		-trigger
-		-rifling
-		-barrel
+	Gun mods
+		extended barrel
+		extended magazine
+		lighter stock
+		improved chamber
+		rifled barrel
+		rpg extention
+		bayonette
+		laser sight
+		scope
+		faster firing rod
 	crowbar
 	grenade
 	frag mine
@@ -869,6 +874,12 @@ Rare items (manufacured goods)
 		-.308
 		-shell
 		-slug
+	meds/drugs
+		Rage
+		Smarts
+		Crystal
+		StimPak
+		Rad B Gone
 	
 Very Rare items (effective weapons)
 
@@ -885,7 +896,6 @@ Very Rare items (effective weapons)
 	Ruger mkIII
 	Springfield 70
 	dynamite
-
 
 Quest rewards
 	
