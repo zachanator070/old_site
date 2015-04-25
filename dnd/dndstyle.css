@@ -1,0 +1,600 @@
+@media only screen
+and (min-device-width :320px)
+and (max-device-width : 640px){
+
+	body{
+	background-image:url('build/background.png');
+	color:white;
+	font-size:270%;
+	}
+
+	#frame{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	}
+
+	#links{
+	left: 0px;
+	width:80%;
+	height:10%;
+	font-size:60%;
+	display:inline-flex;
+	flex-wrap:wrap;
+	}
+	
+	#back{
+	width:23%;
+	}
+	
+	div.link{
+	border-bottom: thick solid #66acc6;
+	border-left:thin #66acc6 solid;
+	border-right:thin #66acc6 solid;
+	width:25%;
+	height:100%;
+	}
+	
+	p.link{
+		text-align:center;
+	}
+	
+	#content{
+	width: auto;
+	position: relative;
+	left: 0px;
+	top: 10%;
+	background-color: rgba(0,0,0,0.4);
+	border-right: thick solid #66acc6;
+	border-top: thin solid #66acc6;
+	margin-bottom:10%;
+	padding:10px;
+	}
+	
+	a{
+	color:#66acc6;
+	text-decoration:underline;
+	}
+
+	a:hover{
+	color: white;
+	cursor:pointer;
+	}
+
+	a:visited{
+	color:#66acc6;
+	}
+	
+	a.link{
+	color:white;
+	text-decoration:none;
+	}
+	
+	a.link:hover{
+	color: white;
+	cursor:pointer;
+	text-decoration:underline;
+	}
+
+	a.link:visited{
+	color:white;
+	}
+	
+	/*************************docs style*/
+	
+	#dummy2{
+		position:fixed;
+		height:150px;
+		width:150px;
+		top:5%;
+		right:0px;
+		z-index:10;
+	}
+	
+	#contents{
+		position:fixed;
+		visibility:hidden;
+		top:15%;
+		right:0px;
+		background-color: rgba(0,0,0,0.8);
+		border-left: thick solid #66acc6;
+		border-top: thin solid #66acc6;
+		z-index:10;
+	}
+
+	img.arrows{
+		visibility:visible;
+		height:150px;
+		width:150px;
+	}
+	
+	table, caption,td{
+		font-size:50px;
+		border:1px solid #66acc6;
+	}
+	
+	td{
+		padding:2px;
+	}
+	
+	/******************Charsheet*/
+	
+	input[type="text"], textarea, input[type="password"],select ,input[type="file"]{
+		background-color: black; 
+		color: white;
+		font-size:35px;
+	}
+	
+	input[type="checkbox"]{
+		-ms-transform: scale(4); /* IE */
+		-moz-transform: scale(4); /* FF */
+		-webkit-transform: scale(4); /* Safari and Chrome */
+		margin-left:40px;
+		
+	}
+	
+	a.header{
+		font-size:70px;
+		color:#66acc6;
+	}
+	
+	input.smallcell{
+	width:50px;
+		
+	}
+	
+	.medcell{
+		width:115px;
+	}
+	
+	.largecell{
+	width:460px;
+	}
+	
+	.skilltable{
+		font-size:80%;
+	
+	}
+
+	#equipmentlist{
+	height:700px;
+	width:500px;
+	}
+	
+	/*different sections*/
+	
+	#info{
+	visibility:hidden;
+	position: absolute;
+	}
+
+	#stats{
+	position: absolute;
+	visibility:hidden;
+	}
+
+	#defense{
+	position: absolute;
+	visibility:hidden;
+	}
+
+	#saves{
+	visibility:hidden;
+	position: absolute;
+	}
+
+	#skills{
+	position: absolute;
+	visibility:hidden;
+
+	}
+
+	#equipment{
+	visibility:hidden;
+	position: absolute;
+	}
+
+	#feats{
+	visibility:hidden;
+	position: absolute;
+	}
+
+	#attacks{
+	visibility:hidden;
+	position: absolute;
+	}
+
+	#pictures{
+	visibility:hidden;
+	position: absolute;
+	}
+	
+	#savebutton{
+		position:fixed;
+		width:150px;
+		height:150px;
+		top:0px;
+		right:0px;
+		border-left: thick solid #66acc6;
+		border-bottom: thin solid #66acc6;
+		background-color: rgba(0,0,0,0.8);
+	}
+	
+	#levelbutton{
+		position:fixed;
+		width:150px;
+		height:150px;
+		top:153px;
+		right:0px;
+		border-left: thick solid #66acc6;
+		border-bottom: thin solid #66acc6;
+		background-color: rgba(0,0,0,0.8);
+	}
+	
+	.panel{
+	color:white;
+	top:0%;
+	left:0%;
+	position:absolute;
+	visibility:hidden;
+	}
+	
+	.startPanel{
+	color:white;
+	top:0%;
+	left:0%;
+	}
+	
+	button{
+	font-size:35px;
+	}
+	
+	img.dndpic{
+	padding:20px;
+	}
+}
+
+@media only screen 
+and (min-width : 1224px) {
+
+
+
+	/*build*/
+
+	body{
+	background-image:url('build/background.png');
+	color:white;
+	}
+
+	#frame{
+	position: relative;
+	top:50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1300px;
+	background-image:url('build/frame.png');
+	background-repeat:no-repeat;
+	height:600px;
+	
+	}
+
+	#links{
+	width: 300px;
+	right: 0px;
+	}
+
+	p.link{
+		text-align:center;
+	}
+	
+	
+	#link1{
+	position:absolute;
+	top:61px;
+	left:235px;
+	height:50px;
+	width:150px;
+	background-image:url('build/button.png');
+	}
+
+	#link2{
+	position:absolute;
+	top:61px;
+	left:404px;
+	height:50px;
+	width:150px;
+	background-image:url('build/button.png');
+	}
+
+	#link3{
+	position:absolute;
+	top:61px;
+	left:573px;
+	height:50px;
+	width:150px;
+	background-image:url('build/button.png');
+	}
+
+	#back{
+	position:absolute;
+	left:149px;
+	top:-30px;
+	height:50px;
+	width:150px;
+	background-image:url('build/button.png');
+	}
+
+	#content {
+	width: 900px;
+	position: relative;
+	left: 202px;
+	top: 132px;
+	background-color: rgba(0,0,0,0.4);
+	border-right: thick solid #66acc6;
+	border-top: thin solid #66acc6;
+	margin-bottom:85px;
+	padding:10px;
+	}
+	
+	a{
+	color:#66acc6;
+	text-decoration:underline;
+	}
+
+	a:hover{
+	color: white;
+	cursor:pointer;
+	}
+
+	a:visited{
+	color:#66acc6;
+	}
+	
+	a.link{
+	color:white;
+	text-decoration:none;
+	}
+	
+	a.link:hover{
+	color: white;
+	cursor:pointer;
+	text-decoration:underline;
+	}
+
+	a.link:visited{
+	color:white;
+	}
+	
+	input[type="text"], textarea, input[type="password"] {
+		background-color: black; 
+		color: white;
+	}
+	
+	/******************Docs*/
+	
+	#dummy{
+	width:1300px;
+	height:500px;
+	position:absolute;
+	display:flex;
+	flex-wrap:wrap;
+	top:135px;
+	}
+	
+	#dummy2{
+	width:1140px;
+	height:200px;
+	}
+	
+	#contents{
+	position:fixed;
+	width:145px;
+	top:190px;
+	background-color: rgba(0,0,0,0.4);
+	}
+
+	img.arrows{
+		visibility:hidden;
+	}
+	
+	p.subtext{
+		margin-left:20px;
+	}
+	
+	img.inline{
+	padding:15px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+	/*******************charsheet style*/
+
+
+	/*framework of charsheet*/
+	#charsheet{
+	position: relative;
+	width: 860px;
+	padding-left:20px;
+	display:inline-flex;
+	flex-wrap:wrap;
+	}
+
+	#loader{
+	position: relative;
+	width: 300px;
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	}
+
+	#leftpane{
+	width:400px;
+	}
+
+	#rightpane{
+	position:relative;
+	width:400px;
+	}
+
+	/*separate info sections*/
+	#info{
+	height: 375px;
+	width: 300px;
+	visibility:hidden;
+	position: absolute;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#stats{
+	width: 400px;
+	position: absolute;
+	visibility:hidden;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#defense{
+	width: 400px;
+	position: absolute;
+	visibility:hidden;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#saves{
+	visibility:hidden;
+	position: absolute;
+	width:300px;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#skills{
+	width: 450px;
+	position: absolute;
+	visibility:hidden;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#equipment{
+	visibility:hidden;
+	width:300px;
+	position: absolute;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#feats{
+	visibility:hidden;
+	width:550px;
+	position: absolute;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#attacks{
+	visibility:hidden;
+	width:750px;
+	position: absolute;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#pictures{
+	visibility:hidden;
+	position: absolute;
+	padding-bottom:20px;
+	padding-top:5px;
+	}
+
+	#attacktable{
+	width:725px;
+	}
+
+	/*cell sizes*/
+	td.medcell{
+	width:100px
+	}
+
+	td.largecell{
+	width:300px;
+	}
+
+	input.smallcell{
+	width:25px;
+	}
+	
+	input.medcell{
+	width:100px
+	}
+
+	input.largecell{
+	width:300px
+	}
+
+	/*random bits*/
+	#equipmentlist{
+	width:400px;
+	height:400px;
+	}
+
+	#gold{
+	position:relative;
+	left:200px;
+	}
+
+	img.dndpic{
+	padding:20px;
+	}
+
+	a.header{
+	font-size:xx-large;
+	font-weight:bold;
+	cursor:pointer;
+	color:#66acc6;
+	}
+
+	a.header:hover{
+	text-decoration:underline;
+
+	}
+
+	/*buttons*/
+	#savebutton{
+	position:fixed;
+	margin-left:1%;
+	bottom:15px;
+	height:50px;
+	width:150px;
+	background-image:url('build/button.png');
+	}
+	
+	#levelbutton{
+	position:fixed;
+	margin-left:1%;
+	bottom:70px;
+	height:50px;
+	width:150px;
+	background-image:url('build/button.png');
+	}
+	
+	.panel{
+	color:white;
+	top:0%;
+	left:0%;
+	position:absolute;
+	visibility:hidden;
+	}
+	
+	.startPanel{
+	color:white;
+	top:0%;
+	left:0%;
+	}
+
+	/*******************character quiz*/
+	
+}

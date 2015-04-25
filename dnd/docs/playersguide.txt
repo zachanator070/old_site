@@ -1,0 +1,1002 @@
+City of Dreams Players Guide
+v1.1
+========================
+----------
+|Contents|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------
+
+-Basics
+-Races
+-Skills
+-Classes
+-Feats
+-Items
+-Mechanics
+-ARC Weapons
+
+
+-------
+|Races|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------
+
+-Average Joe
+	Just your run of the mill guy. You were just like every other kid in
+	the sandbox and had straight B's your whole life. Regardless of the
+	fact that you mom told you how special you really were 	you never 
+	really quite achieved anything in life besides winning the 4th grade
+	spelling bee. Being average these days however is quite rare.
+	
+	*1 extra feat
+	*4 extra skill points to start with
+
+	
+-Android
+	Forged from the steel of machines and the flesh of man your human
+	ailments are no more. You may choose robotic limbs of your liking 
+	and you are able to get future upgrades for them in the future, 
+	dependent upon the fact that you can find someone to do it.
+
+	*+1 strength
+	*+1 constitution
+	*-2 dex
+	*has potential for limb replacement upgrades
+
+	
+-Ghoul
+	The radiation of this world has made your flesh weak from the 
+	unstable conditions you were exposed to. You have a hard time 
+	keeping your skin from falling off and keeping your hair from 
+	falling out. Your appearance causes many to flee but can cause your
+	enemies to tremble. Because of these circumstances you have been 
+	blessed with the gift, or curse, of an extended life. Your average 
+	ghoul can have a nice life of 300 years, that is of course if he 
+	makes it that long.
+
+	*+1 wisdom
+	*+1 constitution
+	*-2 charisma
+	*+5 radiation resistance
+	*Terrifying Presence feat
+	
+
+
+-Mutant
+	Radiation at birth is a sad and rare occurrence indeed. More often 
+	than ever, irradiated young are abandoned due to thier abnormalities
+	and rapid declining mental state. Fortunately for you though you 
+	love having a third limb! That extra hand really is useful for an 
+	extra pistol or the fact that your alien sized eyes	make you see 
+	that much better. Of course with every good thing there is a bad 
+	one. Choose wisely.
+
+	*1 helpful abnormality
+	*1 inhibiting mutation
+	*-3 radiation resistance
+	*+1 intelligence
+
+
+---------
+|Classes|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------
+
+--|Marine|-------------------------------------------------------------
+
+Being a long time soldier has given you a sound understanding of the 
+ways of war and it's tools of destruction. You are well prepared to kill
+with any sort of weapon whether it be a pea-shooter or a nuclear missile.
+
+
+	Fort 	Ref	Will
+Level 	Save 	Save 	Save 	Special
+1st	+1	+0 	+0 		
+2nd 	+3 	+0 	+0	+1 Feat or +1 to all weapon skills
+3rd 	+3 	+1 	+1		
+4th 	+4 	+1 	+1	+1 to all weapon skills
+5th 	+4	+1 	+1
+6th 	+5	+2 	+2	+1 Feat or +1 to all weapon skills
+7th 	+5 	+2 	+2
+8th 	+6 	+2 	+2 	+1 to all weapon skills
+9th 	+6 	+3 	+3
+10th 	+7 	+3 	+3 	+1 Feat or +1 to all weapon skills
+
+
+-Class Skills-
+climb, craft, diplomacy, electronics, explosives, heal, heavy weapons, 
+intimidate, knowledge (weapons), listen, melee weapons, pistols, 
+profession (armed forces), rifles, spot, swim, survival
+
+SKILL POINTS PER LEVEL: 4 + intelligence modifier
+
+*HD 10
+
+*Wears light and medium armor
+
+-Special-
+As a marine you are prepared for any situation. As such you are able to
+develop extra feats to stay ontop of the oponent. Because of your 
+finesse with guns, all your weapon skills (pistols, rifles, heavy weapons) 
+have the chance to go up as well due to all the warfare you encounter.
+
+
+
+--|Savage|-------------------------------------------------------------
+
+	Fort 	Ref 	Will
+Level 	Save	Save	Save 	Special
+1st 	+2	+0	+0 	Beserk +/-5, Animal familiar
+2nd 	+3 	+0 	+0 
+3rd 	+3	+1	+1	Beserk +/-10
+4th	+4	+1	+1
+5th 	+4	+1	+1	Beserk +/-15, Animal Companion
+6th 	+5 	+2 	+2
+7th 	+5 	+2 	+2	Beserk +/-20
+8th 	+6 	+2 	+2
+9th 	+6 	+3 	+3	Beserk +/-25
+10th 	+7 	+3 	+3
+
+-Class Skills-
+climb, cooking, explosives, handle animal, heavy weapons, intimidate,
+jump, listen, melee weapons, pistols, spot, survival, swim
+
+SKILL POINTS PER LEVEL: 2 + intelligence modifier
+
+*HD 12
+
+*Wears any type of armor
+
+-Special-
+The hardships of the waste have pushed savages beyond the point of no
+return. Separated from humanity for most of their life time, Savages have
+lost many of their human characteristics and have grown to become one of 
+its natural(?) inhabitants. At level 1 savages may have an animal familiar
+and later have an animal companion at level 5. They may also beserk going
+into a rage and dealing more damage but taking more at the same time from
+reckless attacking.
+
+
+
+--|Doc|-----------------------------------------------------------------
+
+	Fort 	Ref 	Will
+Level	Save 	Save 	Save 	Special
+1st 	+0 	+0 	+2 	Bandages
+2nd 	+0 	+0 	+3	Antidote
+3rd 	+1 	+1	+3 	Defibulator
+4th 	+1 	+1 	+4 
+5th 	+1 	+1 	+4 	Chemo
+6th 	+2 	+2 	+5
+7th 	+2 	+2 	+5	Surgery
+8th 	+2 	+2 	+6
+9th 	+3 	+3 	+6
+10th 	+3 	+3 	+7
+
+-Class Skills-
+appraise, bluff, cooking, craft, diplomacy, forgery, gather information,
+heal, knowledge (surgery), knowledge (disease), listen, medicine, 
+melee weapons, pistols, profession (doctor), science, sense motive, spot
+
+SKILL POINTS PER LEVEL: 6 + intelligence modifier
+
+*HD 4
+
+*Wears light armor
+
+*Carries ARC Battery 
+
+-Special-
+Med School has taught you a thing or two but unfortunately the waste has 
+little to offer in medical supplies. However with crude tools you are able
+to create makeshift tools to help others while venturing around. You are
+able to heal others by means of crude bandages and field surgery as well
+as resurrect friends from the grave with a DIY defibulator. A chemo recipie
+is later discovered to cure those inflicted with radiation poisoning. 
+
+-Recipies-
+
+Crude bandages - Alchohol + clean linen (+1d4 HP)
+
+Defibulator - Car batery + jumper cables + 12 pencils + copper wire + 
+		thin aluminum sheets (Raises player from the dead)
+		* Requires 800 voltz to charge *
+
+Antidote - venom + pack of cigarettes + charcoal (+10 to next fort save)
+
+Chemo - saline + syringe + fertilizer + 1 med + alchohol (-65 rad)
+
+Surgery - Crude bandage + sharp knife + needle + thread (+3d10 HP)
+
+
+
+--|Thief|---------------------------------------------------------------
+
+	Fort	Ref 	Will
+Level 	Save 	Save 	Save 	Special
+1st 	+0 	+2 	+0 	Sneak attack +1d6
+2nd 	+0 	+3 	+0 	Evasion
+3rd 	+1 	+3 	+1 	Sneak attack +2d6, Trap sense +1
+4th 	+1 	+4 	+1 	
+5th 	+1 	+4 	+1 	Sneak attack +3d6
+6th 	+2 	+5 	+2 	Trap sense +2
+7th 	+2 	+5 	+2 	Sneak attack +4d6
+8th 	+2 	+6 	+2	
+9th 	+3 	+6 	+3 	Sneak attack +5d6, Trap sense +3
+10th 	+3 	+7 	+3 	
+
+-Class Skills-
+
+appraise, balance, bluff, climb, craft, disable device, disguise, 
+electronics, escape artist, forgery, gather information, hide, jump, 
+knowledge (illegal activities), listen, melee weapons, move silently, 
+open lock, sleight of hand, spot, swim
+
+SKILL POINTS PER LEVEL: 8 + intelligence modifier
+
+*HD 6
+
+*Wears light armor
+
+*Carries ARC Battery
+
+-Special-
+You are a master of the night. Your career up to this point has been due 
+to the misfortunes of others. You have a knack for taking things that don't
+belong to you and have an irresitable urge towards shiny metal objects. 
+Your stealth attack can be activated when attacking foes from out of sight.
+Your keen senses give you a bonous against disabling traps as well as 
+towards saves against them.
+
+
+
+--|Survivalist|---------------------------------------------------------
+
+	Fort 	Ref 	Will
+Level	Save 	Save 	Save 	Special
+1st 	+2 	+2 	+0 	1st favored enemy (+2 bonus)
+2nd 	+3 	+3	+0 	Animal companion
+3rd 	+3 	+3 	+1 	Tracking
+4th 	+4 	+4	+1 	
+5th 	+4 	+4 	+1 	2nd favored enemy (+3 bonus)
+6th 	+5 	+5 	+2 	
+7th 	+5 	+5 	+2 	
+8th 	+6	+6 	+2 	
+9th 	+6	+6 	+3 	
+10th 	+7	+7 	+3 	3rd favored enemy (+5 bonus)
+
+-SKILLS-
+appraise, bluff, climb, cooking, craft, disguise, explosives,
+gather information, handle animal, heal, heavy weapons, hide, 
+jump listen, melee weapons, pistols, rifles, spot, survival, swim
+
+SKILL POINTS PER LEVEL: 4 + intelligence modifier
+
+*HD 8
+
+*Wears any type of armor
+
+-Special-
+Live, hunt, survive. That is the motto that you have given yourself as you
+have journied across the barren land. Your instincts, and your
+humanity are the only thing that separate you from the other lost souls
+that you have encountered. Your skill in hunting grants you extra bonuses
+as you fight against your favorite foes. You have gained animal alliances
+and the ability to track your next meal as well.
+
+-Track-
+Weather, terrain, and ground type will effect DC as well
+(Survival DC)
+10	1 Mile
+15	3 Miles
+20	7 Miles 
+
+
+
+--|Tech|----------------------------------------------------------------
+
+	Fort	 Ref 	Will
+Level	Save 	Save 	Save 	Special
+1st 	+0 	+0 	+2 	1 Robo Familiar
+2nd 	+0 	+0 	+3
+3rd 	+1 	+1 	+3
+4th 	+1 	+1 	+4
+5th 	+1 	+1 	+4	1 Robo Companion
+6th 	+2 	+2 	+5
+7th 	+2 	+2 	+5
+8th 	+2 	+2 	+6
+9th 	+3 	+3 	+6 
+10th 	+3 	+3 	+7
+
+-SKILLS-
+appraise, craft, decking, electronics, explosives, gather information, 
+knowledge (computers), listen, melee weapons, pistols, 
+profession (tech support), rifles, science, spot
+
+SKILL POINTS PER LEVEL: 4 + intelligence modifier
+
+*HD 4
+
+*Wears medium and light armor
+
+*Carries ARC Battery
+
+-Special
+As a lad you enjoyed taking the toaster apart and back together again at
+least 4 different ways. At age 16 you could apply the same principle to 
+a car engine. At age 19 you hacked the PSN and almost got thrown in federal
+prison for it. Armed with your knowledge of mathematics, Java, and 
+rudimentary robotics, you are able to construct a robot familiar and later
+gather enough parts for a robotic companion. Although you are the only person
+around that seems to be able to program anything worth 2 Voltz, you can 't
+lift a computer tower more than 2 feet.
+
+
+
+--|Hit Die|-------------------------------------------------------------
+
+HD 		Class
+d4		Tech, Doc
+d6		Thief
+d8		Survivalist
+d10		Marine
+d12		Savage
+
+*NOTE*
+-Starting health is equal to the max value of a character's hit dit (ex: 6 for a d6) plus constitution modifier
+-When leveling up, add 1HD + constitution modifier to your health.
+
+--|Skill Point Modifier|------------------------------------------------
+
+Class		Skill Point Modifier
+Marine 		      4
+Savage 		      2
+Doc 		      6
+Thief		      8
+Survivalist	      4
+Tech		      4 
+
+*NOTE*
+-Starting skills = (skill point modifier + INT modifier)*4
+
+
+-------
+|Skills|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------
+
+Max class skill: character level + 3
+
+Max cross class skill: half of max class skill. (Round down)
+
+APPRAISE
+	Used in bartering and determining value of items
+
+	DC
+	10 - within 50% of value
+	15 - within 25% of value
+	20 - within 5% of value
+
+BALANCE
+	Used to surpass traps in dungeons
+	
+	DC depends on obstacle
+	
+BLUFF
+	The ability to lie to people
+
+	DC compares against opponents Bluff check
+
+CLIMB
+	Used to surpass obstacles of height in dungeons
+
+	DC depends on obstacle
+
+COOKING
+	Needed to create food that could otherwise not be edible
+
+	DC
+	<10 	-Burn food
+	10-15 	-Not cooked enough
+	>15 	-Cooked well
+
+CRAFT
+	The ability to create items from schematics found in the wastes
+
+	DC
+	<7	50% materials are wasted and craft fails
+	8-16	20% more materials are needed but craft succeeds
+	>17	craft succeeds with no fault
+
+DECKING
+	AKA Hacking or compromising a computer console
+
+	DC depends on obstacle
+
+DIPLOMACY
+	The ability to create friends and foes
+
+	DC compares against opponents Diploymacy check
+
+DISABLE DEVICE
+	Used to disable any mechanical trap in dungeons
+
+	DC depends on obstacle
+
+DISGUISE
+	Determines your ability to hide yourself in plain sight
+
+	DC compares against opponents Spot check
+
+ELECTRONICS
+	Used to disable any electronic trap or use any electronic device
+
+	DC depends on obstacle
+
+ESCAPE ARTIST
+        Escape from your bonds with this
+
+	DC depends on obstacle
+
+EXPLOSIVES
+	Determines effectiveness with explosive devices
+
+FORGERY
+	Be able to create false documents with this
+
+	DC compares against opponents Wisdom check
+
+	*need nessisary tools and materials for the forgery
+
+GATHER INFORMATION
+        General ability to gather gossip and information from surroundings
+
+	DC
+	<12	Find less than you wanted to know 
+	13-18	Find out specifically what you wanted to know
+	>19	Find out what you wanted to know and perhaps more
+
+	*limit to one attempt a day
+
+HANDLE ANIMAL
+       How nice animals react to you
+
+	DC compares to animals to animals Charisma check
+
+HEAL
+	Used to stabilize a dying companion. 
+
+	DC
+	<13	friend stays dying
+	>14	stabilizes companion
+
+HEAVY WEAPONS
+	Determines effectiveness with heavy-class weapons
+
+HIDE
+	Determines the ability to hide in shadows and coverings
+
+	DC compares against enemy Spot check
+
+INTIMIDATE
+	How well you can scare the pants off others
+
+	DC compares against enemy Bluff check
+
+JUMP
+	Used to overcome a large gap or vertical ledge
+
+	DC depends on obstacle
+
+KNOWLEDGE
+	Can determine your understanding of a subject
+
+	DC depends on subject or situation
+
+LISTEN
+	Can be used to discover enemies before they see you
+
+	DC compares to enemy's Move Silently check 
+
+MEDICINE
+	Effectiveness with medicines and a scalpel to recover
+
+	DC depends on drug/treatment being applied
+
+MELEE WEAPONS
+	Determines effectiveness with basic melee weapons
+
+MOVE SILENTLY
+	How well you can sneak so others don't notice
+
+	DC compares against enemy Listen check
+
+OPEN LOCK
+	Used to open mechanical locks
+
+	DC depends on obstacle
+
+PISTOLS
+	Determines your effectiveness with pistol class weapons
+
+PROFESSION
+	Can be used daily to gain voltz
+
+	Voltz = DC * user level
+	
+	*can only be used once daily
+
+RIFLES
+	Determines your effectiveness with rifle class weapons
+
+SCIENCE
+	You understanding of chemicals and chemical composition
+
+SENSE MOTIVE
+	Be able to detect if someone is lying
+
+SLEIGHT OF HAND
+	How well you are able to steal with out attracting attention
+
+SPOT
+	Ability to identify things that others would simply pass by
+
+SURVIVAL
+	Used to forage for supplies outside and hunting creatures
+
+SWIM
+	Whether you sink or swim
+
+
+-------
+|Feats|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------
+
+*You start with one feat and gain one at level 3, 6, and 9*
+
+-Terrifying Presence
+	You are a freak of nature.
+	+2 Intimidate
+
+-Radical!
+	Exposure to radiation has given you a natural 
+	immunity to radiation poisoning. +4 rad resistance
+
+-Scar tissue
+	You are given a bonus for past battles and the 
+	experience from it +1 constitution
+	
+-Blade master
+	You can use your dexterity bonus instead of strength 
+	bonus when fighting with blades of any kind
+
+-Mathlete
+	You are as nerdy as they come
+	+3 decking
+
+-Iron Gut
+	You stomach acid is like battery acid
+	+3 Radiation Resistance when eating food
+
+-Atomic Growth
+	You can drink from radiated water sources to regain 
+	1d6 health everyday
+
+-Tinker
+	Get +1 to open lock, electronics, and decking
+
+-Iron chef
+	Get a bonus to cooking for culinary school
+	+4 to cooking
+
+-Dancing lessons
+	Mom embarrassed you as a child and made you take em
+	+3 to reflex saves
+
+-Duel wielding
+	You have no penalty for using two pistols 
+	with both hands
+
+-Al Queda
+	You like rifles, you get a +3 proficiency to 
+	the rifle skill
+
+-Firebat
+	Need a light?
+	Learn Napalm recipie
+
+-Arnold
+	The best gun is the biggest gun
+	+3 to heavy weapon skill.
+
+-Sheriff Rick
+	Pistols are more your style
+	+3 to pistols skill
+
+-Fullmetal Alchemist
+	In addition you receive a custom cocktail from the 
+	DM that only you can make +3 to Science 
+	
+-Black widow 
+	You have a sexy side and when bluffing, bargaining,
+	talking diplomatically with the opposite gender 
+	you gain a +3 to rolls
+
+-Cat like relflexes
+	Can't touch this.
+	+1 AC permanently
+	+1 reflex save
+
+-Asian
+	You are just better for some reason
+	+1 any ability score permanently
+
+-Kamakaze
+	Boom goes the dynamite
+	+3 to explosives skill
+
+-Metaclorians
+	Little nano organisms are taking nest in your blood
+	+2 Fortitude Saves
+
+-------
+|Items|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------
+
+*this lists a few of the basic things that you may encounter 
+      	    and is in no way a complete list*
+
+
+-Scrap bolts (100 voltz)
+	Represents 1 lb of small metal objects. Items may be 
+	converted to scrap metal but not vice versa. Used in
+	various schematics and considered versatile when 
+	fixing things as well. Can be obtained from any 
+	mechanical structure but such structure is disassembled 
+	and deemed unusable till fixed with more bolts.
+
+	
+-Battery (worth its capacity)
+	
+	
+-Food 
+	Food is so rare it is it's own currency and is extremely 
+	valuable in the vast waste. Many people will be very 
+	hesitant to part with their food as it could be thier 
+	last meal. Foods can be crafted	and obtained other ways 
+	though. Normal food give off 1d10 radiation points when 
+	consumed. Well prepared organic food gives significantly
+	more health and is not irradiated, good luck finding it 
+	though. 
+
+
+---|MEDS|---
+	Meds are a valuable commodity as well and are quite rare:
+
+-Rad B Gone
+	From the makers of RadX and RadAway, Pipboy industries 
+	gives us another great product to help clear away that 
+	pesky radiation that exists well... everywhere.
+	
+	(-RADs)
+
+	
+-Smarts
+	Smarts earned its street name from dealers around the 
+	city who advertise that	you will get "smarts" from it.
+	Other side effects have been noted to be apparent 
+	besides the increase in brain functionality.
+	
+	(+WIS, +INT, -STR)
+	
+	
+-Crystal
+	Recent drug activity has started circulation of 
+	methamphetamines and a particular one known as crystal
+	known for its slight blue hue and its effects on reflex 
+	reactions. Of course too much of a good thing couldn't 
+	possibly be bad.
+	
+	(+CON, -DEX)
+	
+
+-StimPak
+	Government circulation of StimPaks have made this drug
+	a common site in the wastes as people find a way to 
+	get rid of nerves and prepare for battle. Increased 
+	blood flow in the user makes blood clotting occur at 
+	a much slower rate which has its effects as well.	
+
+	(+DEX, -CON)
+	
+		
+-Rage
+	Users of the street drug known as rage have been 
+	reported as unstoppable. Rapid muscle growth and cell 
+	division are some common effects from this drug but a
+	deterioration of brain matter seems to compensate for
+	the sudden change in muscle mass. 
+	
+	(+STR, -WIS)
+	
+	
+--|MELEE WEAPONS|--
+
+-Baseball Bat (1d6+1) (crit 19-20 x2)
+	Hit a homer with this crude weapon. Hit as hard as 
+	you want but has a 10% chance to break each swing.
+
+-Improvised blunt weapon(1d4+2) (crit 20 x2)
+	Don't have much? use anything blunt! has 30% chance
+	to fail and break.
+
+-Shiv (1d6) (crit 19-20 x2)
+	Close quarters makeshift blade made to do 
+	the dirty work.
+
+-Baton (1d6) (crit 19-20 x2)
+	Useful for crowd control or just beating the tar 
+	out of someone. Has a shorter range than you think. 
+	
+How to determine damage with a ranged weapon:
+
+damage = str modifier + weapon damage
+
+--|RANGED WEAPONS|--
+
+*Size of ammo adds damage*
+*20 shells = 1 lb*
+
+-Damage per bullet-
+	-.22 = 0
+	-9mm = 1
+	-.380 = 1
+	-5.56 = 2
+	-.45 = 2
+	-.30 = 2
+	-.308 = 4
+
+	-shell = 2
+	-slug = 3
+	
+How to determine damage with a melee weapon:
+
+damage = bullet damage + weapon damage
+
+
+--|Rifles|--
+ 
+*All rifles have a range of 50ft*
+*All unmodified rifles do 1d6 damage
+
+
+-AK47
+	Ammo:(5.56/9mm)
+	Fire Rate:(3x)
+	Crit: 19-20 x2
+	
+-AR15
+	Ammo:(5.56)
+	Fire Rate:(3x)
+	Crit: 18-20 x2
+	
+-M16 
+	Ammo:(5.56/.45)
+	Fire Rate:(3x)
+	Crit: 19-20 x2
+
+-M1 Garand
+	Ammo:(.30)
+	Fire Rate:(2x)
+	Crit: 18-20 x3
+
+-Remington 870 (Pump Shotgun)
+	Ammo:(shells)
+	Fire Rate:(1x)
+	Crit: 18-20 x2
+	*Shot may be directed to hit 2 adjacent enemies.
+	      	   Damage is split*
+
+
+--|Pistols|--
+*All pistols have a range of 20ft*
+*All unmodified pistols do 1d8 damage
+
+-Glock 17
+	Ammo:(9mm)
+	Fire Rate:(2x)
+	Crit: 18-20 x3
+	
+-Colt Peacemaker
+	Ammo: (.45)
+	Fire Rate:(2x)
+	Crit: 18-20 x3
+	
+-Ruger mkIII
+	Ammo:(.22)
+	Fire Rate(2x)
+	Crit: 20 x2
+	
+--|Snipers|--
+*All snipers have a range of 100ft*
+*All unmodified snipers do 1d10 damage
+
+-Springfield 70
+	Ammo:(.308)
+	Fire Rate:(1x)
+	
+
+--|EXPLOSIVES|--
+
+-Pineapple
+	Does 1d8 damage to 1d4 enemies in a 10ft radius 
+	around impact point. Doesn't taste as good 
+	as advertised. 
+
+
+-Frag Mine
+	Much like its throw-able counterpart. 
+	Deals 1d8 damage to 1d4 enemies around 10ft 
+	from its impact point.
+
+How to determine damage with an explosive weapon:
+
+damage = weapon damage
+
+-----------
+|Mechanics|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------
+
+~~~Your Turn~~~
+
+Your turn consists of 1 movement and 1 attack or 2 movements.
+When your character level's up enough they will be able to make 2 attack moves.
+
+~~~Attacking~~~
+
+Attack roll: Any weapon - use d20 and add weapon skill/3
+			 
+			 
+Damage roll: Melee - use weapon damage dice plus str modifier plus weapon skill/3
+       	     Ranged - use weapon damage dice plus bullet damage weapon skill/3
+			 
+Ammo: Each ranged weapon has a fire rate. Fire rate determines ammunition used to make a single successful attack per turn.
+
+~~~Radiation~~~
+
+Radiation resistance is the value that radiation startst to take effect.
+
+ex: You have a radiation resistance of 5. You eat some food that makes you take 1d10 of radiation. 
+	You roll a 4. Because 4 < 5 you take no effect from it. You then fall into a trap and take 7 radiation from
+	water. 7 > 5 therefore you take on 7 points of radiation. 
+
+The effects of radiation are determined as such:
+
+<10		no ill effects
+
+11-25 	-1 str
+		-1 dex
+		
+25-40	-2 str
+		-1 dex
+		-1 con
+		
+40-55	-2 str		
+		-1 dex
+		-2 con
+		
+55-70	-2 str
+		-2 dex
+		-2 con
+		
+80-90	-2 str
+		-2 dex
+		-2 con
+		-2 wis
+
+>90		-2 str
+		-2 dex
+		-2 con
+		-2 wis
+		-2 cha
+
+-------------
+|ARC Weapons|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------
+
+ARC weaponry are used quite differently in that they use ARC batteries
+which are a miracle in the technological world. ARC batteries are able
+to self recharge per 24 hours. The energy stored within them has such
+high voltage though that they are rendered almost useless as they short
+circuit anything connected to them. Because of thier mysterious origins,
+sone say that this stored energy is nuclear where others claim it to be
+of another world. Despite the technology that actually surrounds these 
+batteries, there are select devices that are found throughout the waste
+that are able to harness this energy. Most usable devices are in forms
+of weapons and require an amount of wattage per use. Each ARC battery 
+is recharged at the end of each day.
+
+Saving throws can be made against ARC weapons are made as such:
+
+10 + save mod > 10 + caster level + (wattage of weapon / 10)
+
+Flare Lamp		10 WATT Emits burst of light lasting 1d4 rounds
+
+Water Filter		10 WATT Able to test the purity of water and food
+
+Joy Buzzer		10 WATT Hide this in you hand and give a friend
+    			   	 a zap
+
+NanoBots		10 WATT Gives recipiant +1 HP
+
+Noisy Cell Phone 	20 WATT Makes annoying sounds. Can distract 1d4 
+      	   		   	creatures up to 1d4 hit die for 1d4 turns.
+				 WILL save negates.
+
+Tazer			20 WATT Melee weapon that does 1d6 damage. 
+			   	FORT save halves.
+
+Electro-puncture	20 WATT Facial electro needles that increase 
+			   	discuise rating by 5.
+
+OmniWrench		20 WATT Charged melee blunt weapon that deals 
+			   	1d6 damage
+
+Holo-emitter		30 WATT Able to project 3D images and sounds on 
+			   	a countdown timer. Can distract 
+				1d4 creatures with 1d6 hit die for 
+				1d4 turns. WILL save negates
+
+Stun Gun		30 WATT 30 ft ranged weapon that deals 
+     			   	1d6+1 damage. REFLEX halves.
+
+Tazer Field		30 WATT Personal force field surrounds user and 
+      			   	deals 1d6+4 to enemies that touch it. 
+				FORTITUDE halves.
+
+Laser Pistol		30 WATT 30 ft ranged weapon that deals
+      			   	1d8 damage. REFLEX halves. May start fires
+
+Magneton		30 WATT Recipiant gains +2 AC from floating 
+			   	rotating electromagnets
+
+Sting(Cattle Prod)	40 WATT Melee weapon that does 1d6+5 damage. 
+	     		   	FORT save halves.
+
+EES	     		40 WATT For 1d4 HP, +2 STR for 1d4 rounds
+
+EMP Grenade		40 WATT Grenade weapon that deals 
+    			   	1d12+1 damage to 1d4 enemies. 
+				FORTITUDE halves.
+
+Gravity Boots		40 WATT For 1d4 HP, +2 DEX for 1d4 rounds
+
+PsyNodes		40 WATT -2 CON +2 WIS for 1 day
+
+Tesla Claw		50 WATT Melee weapon that deals 2d6 damage. 
+      			   	FORT save halves.
+
+Solar Flare		50 WATT Grenade weapon that can blind 1d4 creatures 
+      			   	up to 1d8 hit die for 1d4 turns. WILL save negates
+
+Sonic Disrupter		50 WATT 30 ft ranged weapon that can imcompacitate 
+      			   	1 creature up to 1d8 hit die. WILL save negates.
+
+ARC bow			50 WATT	30 ft ranged weapon that fires lightning rods 
+    			   	that deal 1d6 damage and 1d4 damage for 1d4 rounds.
+				FORTITUDE halves.
+
+Exploding George	60 WATT Grenade weapon that distracts 1d4 creatures up to 
+	  		   	1d8 hit die and explodes plasma for 1d12+2 damage 
+
+Plasma Pistol		60 WATT 30 ft ranged weapon that deals 
+       			   	1d10+1 damage. REFLEX halves.
+
+Laser Rifle		70 WATT 40 ft ranged weapon that deals 1d12 damage. 
+      			   	REFLEX halves. May start fires.
+
+Plasma Rifle		80 WATT 40 ft ranged weapon that deals 2d8 damage. 
+       			   	REFLEX halves.
+
+Guass Cannon		100 WATT 50 ft ranged weapon that deals 2d10 damage. 
+      			    	 REFLEX halves.
+
+Rail Gun		100 WATT 50 ft ranged weapon that deals 2d12 damage. 
+     			    	 REFLEX halves.
+

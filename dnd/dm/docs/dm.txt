@@ -1,0 +1,916 @@
+----------
+
+Contents|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+----------
+
+
+
+--|DM|--
+
+-schematics
+
+-locations
+
+-main plot
+
+-random events
+
+-mobs
+
+-graphs
+
+-loot
+
+-starting items
+
+
+
+------------
+
+|Schematics|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------------
+
+
+
+*Each worth 500voltz*
+
+
+
+
+--|Basic|--
+
+
+Shiv (1d4)
+
+	1 small blade
+
+	binding
+
+
+
+Butterfly Knife (1d4 + dex mod)
+
+	2 small blades
+
+	binding
+
+	handful of bolts
+
+
+
+Smiley (1d6 + strength mod)
+
+	chain
+
+	pad lock
+
+	handful of bolts
+
+
+	
+Torque bow (see ammo)
+
+	2 metal bars
+
+	2 scrap meatal
+
+	rubber hose
+
+	gun hilt
+
+	__AMMO__
+	-explosive bolt (2d6)
+
+		rebar/ sharpened metal pole/ crowbar
+
+		grenade/mine
+
+	-rebar bolt (1d6)
+
+		rebar/ sharpened metal pole/ crowbar
+
+	-arrow (1d4)
+
+		bit of metal
+
+		shaft of wood
+
+
+
+Jack in the Box (4 d8/distance of 5 ft per pound)
+
+	lunchbox
+
+	40 bullets(any)/ .5lb c4/ 1 grenade/ 1 mine
+
+	2 scap metal / 2 nails
+
+	pilot light
+
+	cicuit board
+
+
+
+Hook Saw (grapples med mob for 2d8 grapple check negates)
+
+	chain saw
+
+	metal chain
+
+	2 handful of bolts
+
+	small battery
+
+	small air canister
+
+	small motor
+
+
+
+Titian's Blade (1d8) (junk bastard sword)
+
+	car bumper
+	
+	street sign
+	
+	street pole
+	
+	binding
+	
+	
+XERP(Electric round for shotgun)
+
+	2 small blades
+	
+	metal pipe
+	
+	nails
+	
+	copper wire
+	
+	2 batteries with 50 voltz in them
+
+--|Flaming|--
+
+Butane whip (1d4 + 1d4 for 1d4 rounds) (25 uses per gal of gas)
+
+	propane tank
+
+	sword hilt
+
+	pilot light
+
+	metal hose
+
+	handful of bolts/nails
+
+	small air tank
+
+
+
+Sishkabob (1d6 + 1d4 for 1d4 rounds) (20 uses per gal of gas)
+
+	propane tank
+
+	sword hilt
+
+	pilot light
+
+	handful of bolts/nails
+
+	small air tank
+
+	metal blade (medium)
+
+
+
+Napalm 1lb (2d6 + 1d4 for 1d4 turns) needs ignition
+
+	2 gal gas
+
+	1 lb plastic
+
+	1 gal oil
+
+
+
+C4 (1 lb) (3 d8/distance of 5 ft per pound) arms immediately
+
+	ammonia
+
+	box of detergent
+
+	petroleum jelly
+	
+	iodine
+	
+	1 gal gas
+
+	circuit board
+
+	wireless receiver
+
+	1 gal oil
+
+
+
+Salamander (1d10 + 1d4 for 1d4 rounds) (flaming hydrant on a stick)
+
+	fire hydrant
+	
+	street pole
+	
+	propane tank
+
+	pilot light
+
+	metal hose
+
+	handful of bolts/nails
+
+	small air tank
+
+
+
+--|ARC Weapon|--
+
+Gravity Gun (may lift any object <1d10*10 lbs) (-25 volts per use per turn)(thrown objects do 1d6*wieght/10) (ARC Weapon)
+
+	4 handful of bolts
+
+	3 metal tubes
+
+	3 ciruit boards
+
+	energy cell/ medium battery
+
+	flux crystal
+
+	small motor
+
+
+
+Plasma Saber (1d6 + Dex mod) (-25 voltz/use) (ARC Weapon)
+
+	metal tube
+
+	medium battery
+
+	flux crystal
+
+	handful of bolts
+
+	pilot light
+
+	2 mirror (2" wide each)	
+
+	small motor	
+
+
+	
+
+----------
+
+|Locations|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+----------
+
+
+
+The City of Dreams
+
+
+
+
+-Factions
+
+
+
+	Sam's Pub
+
+	- makeshift town ontop of a large department store
+
+	- first city met
+
+	- not interested in politics, just trying to survive
+
+	- main merchant is a small tinkerer with a big robot assistant
+	
+	- bar tender is near deaf and has a sweet mustache
+	
+	- Chaplin has an old wartorn bible but only has old testament and believes God to be 
+		a merciless general over his Israeli army
+	
+	- located in northern outer city
+
+	- led by sheriff Sam
+
+	
+	
+	Newkirk City
+	
+	-Large backwater city on the border of inner and outer city limits
+	
+	-large gathering of waste-landers of all sorts
+	
+	-led by a mayor
+	
+	-is funded by sharks for some reason (deal with the city to house the ARC Emmiter to keep away the titians)
+	
+	
+	
+	FFF (Forbidden Forgotten Forsaken)
+	
+	-City of misfits located in southern outer city
+	
+	-populated by mutants, ghouls, androids, and criminals
+	
+	-led by hunter assasin chick
+	
+	
+	
+	Recon Force V
+
+	- live underground in subway systems
+
+	- centralized in Atlantic centre in inner city
+
+	- small group of vaguely militarized guerilla fighters
+
+	- based out of the Atlantic Subway hub in north inner city
+	
+	-led by lt. Steele
+
+		
+		
+	Cult of Zara
+
+	- large raiders of downtown necropolis
+
+	- led by 
+
+	- known for burning people at the stake
+
+	- use incendiary bombs and flame weapons
+
+	
+
+	Gunrunners
+
+	- Caravan merchants
+
+	- travel from city to city trading with anyone
+
+	- a classification of people and not a political body
+
+
+
+	Sharks
+
+	- live as a community but not politically tied
+
+	- live on off shore large island that has no bridges
+
+	- live relative peaceful lives
+
+	- have tons of money from control of electricity and oil
+
+	- "wall street" that is neutral but has their hands in everyones business
+
+
+
+	Gundark Tribe
+
+	- tribal people of the island
+
+	- dominate "the island" 
+
+	- worship goddess Alenia of the hunt
+
+	- rather spontaneous when making decisions
+
+	- often raid the city for supplies
+
+	- marked with a scaring across thier chest and palms
+
+	- led by Bartok
+	
+	- worship Alenia through her sight stone which is an alien ruin
+		players obtain flux crystals through Gundarks
+
+
+	RFacs
+	
+	#2 weapons research facility. contains information about the location of
+		nuclear weapons. used as a forward base of the cult of zara.
+		*quest location*
+	
+	#3 nuclear weapons holding silo. also holding the jigoa
+		*quest location*
+		
+	#5 plant growth was researched in hopes of finding better yielding crops
+		and creating new flora. Building contains mutated plants and plant 
+		monsters that have survived the ages.
+		
+	#7 starting location for players. Used as a military training facility
+		and thus contains basic weapons cache and military data.
+		*quest location*
+		
+	#10	used as a mutant experimentation facility. players find crazied patients
+		still living and a large dumb green mutant that can ally with them. players
+		find the origins of the mutant gene that was discovered by the government
+		and eventually got mixed into the gene pool as patients escaped. 
+		
+	#11 ransacked for its medical supplies. Was used as a medical experimentation
+		facility on mutants.
+		*quest location*
+		
+	#13 was a prison where prisoners where doctors experimented on them using 
+		halucinigenic drugs to try to replicate psycic mutants. haunted by the
+		ghosts of dead prisoners.
+
+-----------
+
+|Main Plot|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------
+
+	Players wakeup from cryogenic sleep to find themselves trapped underground in a government
+	
+	research facility. They find the facility power only half functional. They find basic gear and
+	
+	are met by Barry. Dr. Barry is a ghoul that has his lower jaw severed that has stumbled upon 
+	
+	the research facility and was trapped inside it as he was powering on systems and caused a short
+	
+	that left the security systems and door locks powered. The players may be startled at first by
+	
+	his appearance but he helps them to find the power. Feral are keeping the party on thier toes
+	
+	and they must defeat a rather large feral to get to the main entryway and exit the dungeon.
+	
+	They must then escape from RFac #7.
+
+
+	The first thing players see is Sam's Pub and Dr Barry suggests players to head there
+	
+	At Sam's they meet Sam who explains that the the city is in a predicament 
+	
+	where it is under threat from the monsters of the island known as titians
+	
+	but they are kept at bay because of the use of a "psionic emmiter" which is
+	
+	alegidly under control of the newkirk city governor who claims himself as the protector 
+	
+	of the island. He has kept himself in power because of this claim of housing the 
+	
+	psyonic emmiter. Sam hires players to go on a hunting trip to a nearby housing complex
+	
+	known to have skeevers
+	
+	
+	Players are hired to find a Wrym which has found its way into the sewer system. After 
+	
+	following its trail of acid burns players find that it has burrowed with its acid
+	
+	into a highly secured vault, the vault that is supposidly holding the psionic emmiter
+	
+	but it is empty. After players kill the wyrm, the governor attempts to bribe them with 
+	
+	voltz to keep quiet about it. He tells them to come pick it up at a remote location and 
+	
+	plans to kill them there. A lone mercinary comes and helps that players fight off the 
+	
+	mercinary and takes them to a shark who is trying to find out the secret surrounding the 
+	
+	psionic emmiter. The mercinary shows players a rare sharks tooth as a symbol that he is
+	
+	from a shark.
+
+
+	The shark tells players the emmiter could be housed within one of the competing civilizations.
+	
+	Either the Recon, Cult of Zara, Gundarks, Forsaken, or Sam's pub. He tells players  that 
+	
+	the Recon would be a good starting place as they are currently hiring. He gives them a sharks
+	
+	tooth as a sign that they are now contracted under a shark.
+	
+	
+	The Recon will hire players to retrieve a hard drive from RFac #11. The mayor will aproach
+	
+	players and tell them to look at the contents of the disk for the truth behind the Recon.
+	
+	Players will see that the Recon have been gathering government failed experiments.
+	
+	When asked about this Recon will respond that it is thier mission as an organization to 
+	
+	scour the wasted city in an attempt to preserve as much knowledge as possible whether that
+	
+	be books, digital data, or technology.
+	
+	
+	Newkirk Mayor will then hire players to assasinate Forsaken leader claiming they are planning 
+	
+	to raid the Newkirk townstead. When confronted about this the forsaken will strip players of weapons
+	
+	before talking to thier leader. The leader will tell players that the governor is lying because he
+		
+	does not wish to let thier kind into the city. The forsaken then hire players to do the exact same thing to 
+	
+	the Newkirk Governor double the hit price, and offer a new course of history.
+	
+	
+	Upon asassination of the governor players will find out that the forsaken do not have the emmiter either. News 
+	
+	that the governor did not have the psionic emmiter spreads and funding to the city stops. Rumors spread that
+	
+	the sharks are looking for new investments.
+	
+	
+	The forsaken will then hire players to search RFac #2 for signs of development of nuclear weapons in order
+	
+	to win the sharks over and receive thier funding. Players will find research notes and referance 
+	
+	to the location of possible nukes on "Roosevelt." The surviving leader will then reveal that 
+	
+	they are not the ones with the sonic emmiter. While exiting RFac #2 players will be ambushed
+	
+	by the gundark tribe and taken to be sacrificed to thier alian Goddess Alenia.
+	
+	
+	Players will have to convince thier way out of being sacrificed but are then abliged to enter in a rite of passage
+	
+	in the "boogie"(swamp maze) to hunt for a frost wyrm which proves to be quite difficult. Players will be revealed
+	
+	that the gundarks have no idea what the psionic emmiter is and do not have it either. 
+	
+	
+	Upon returning to the Forsaken, players will be explained how the forsaken want to declare war against the Cult
+	
+	of Zara in order to eliminate possible benefactors of the sharks. They however cannot do it alone and want to 
+	
+	recruit the Recon to help them as well. Players will be	tasked with recruiting the Recon with some sort of 
+	
+	craftable item or be tasked to retrieve a water purifier from a fallen Recon scout in a nearby RFac that is 
+	
+	infested with some sort of nasty creatures. Recon will agree to help the Forsaken with the war effort by 
+	
+	suppling weapons.
+	
+	
+	The Forsaken will then task players to head to a Zara cult outpost and kill its inhabitants and thier 
+	
+	war monster as well. Players will have to mark the destroyed outpost with the Forsaken symbol of a 
+	
+	skull on fire and bring back a head of the war animal as proof of thier work. While headed to the 
+	
+	outpost players will be greated with a messanger from a shark bribing them to not kill the monster
+	
+	as the sharks do not want Recon and Forsaken to work together. The messanger will give players a 
+	
+	sharks tooth to signify his authenticity. 
+	
+	
+	At some point after this players get a desperate messange from Sam's pub that they are needed.
+	
+	Sam will tell players that a mother and her baby were taken away into the sewer by large reptilian
+	
+	creatures and that they want players to go after them and hopefully rescue them. Upon fighting 
+	
+	through the sewers players find the Skeet who are large intelligent reptilian creatures that 
+	
+	have basic vocabulary learned from a childrens book that they hold as sacred. Players learn that 
+	
+	the skeeth have taken the woman and child as they did not want to be discovered and perhaps 
+	
+	eat them later. Players can convince the skeeth by killing the jigoa (a large serpant) that is housed
+	
+	in the Roosevelt Research Facility #3 which is deep underground and is housing the long lost nukes.
+	
+	The players will find the jigoa in the nuclear silo holding the nukes. The Jigoa will block thier entryway
+	
+	and players will climb up the silo and find that they are on Roosevelt island by some plaques and statues 
+	
+	of a war hero.
+	
+	
+	At this point the players will be confronted with the choice of giving the nukes to whom they please.
+	
+	Each faction will have thier own reasoning:
+	
+	
+	Recon: Will reveal that they have the Emmiter and want to nuke the Titians
+	
+	Forsaken: Gain funding from the Sharks
+	
+	Sharks: Power to find the emmiter and control it
+	
+	Gundarks: Hold the whole island under hostage and rule the island
+	
+	Sam's Pub: Use it as a power source for thier people, generate money without Sharks
+
+
+---------------
+
+|Random Events|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+---------------
+
+	-Come across raiders attacking a building with small group of people held out inside
+
+	-Mercinaries hired by sharks attack
+	
+	-Come across gun runners with rare items for sale
+	
+	-Find a dead Recon scout with a dogtag
+	
+	-Find loot cache
+	
+	-Attacked by mutant fanatics
+	
+	-Attacked by feral ghoul horde
+	
+	-See distant titian
+	
+	
+
+------
+
+|Mobs|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------
+
+--|Passive|--
+
+	Centipig - multiple legged (6-8) pigs that are mainly used for milk production
+	
+	Multiheaded chicken - has random amounts of head placed randomly on it. Is rather
+				clumsy due to a lack of motor skills from multiple heads. Are used for
+				meat production.
+				
+	Rhinos - large grazing animals that are usually passive and are a rare source of food.
+			  Resmbles a hulking rhino with a flat face like a bison covered in small to large
+			  horns that are mounted at the top of its head.
+
+--|Small|--
+
+	Mole Rats - 2-3 foot tall large rodants that are used as stock animals.
+				Pink colored with no hair or fur.
+	
+	Lyote - Small scavengars that can be aggressive when threatened. Have small horns
+			down the center of thier backs.
+	
+	Sentry rover - small rover with mounted gun that protects a dedicated area away
+				from intruders
+	
+	K10 - evolved form of dogs known to have multiple heads and dangerous bites. Are 
+			known to live both solitary and in packs.
+			
+	Stokes - flightless birds with sparsely feathered bodies as well as scales. Have
+				overly large beaks with small beady eyes. Are scavengers and are known
+				to attack in groups when food is scarce. Rare larger mutants exist that
+				have breath attacks. Closely resemble raptors body type.
+	
+--|Medium|--
+
+	Feral - radiated humans that have turned into radiation zombies.
+	
+	Zara Cultist - known for use of fire weapons, they are relatively unarmored.
+	
+	Poachers - unaligned humans that attack anyone travelling in their turf.
+
+	Night Stag - hairless horse with pitch black eyes. Thin built built with skin that
+					is stretched over its face and body. It is sometimes used as a form
+					of transportation as they can be tamed but only with great effort.
+	
+
+--|Large|--
+
+	Vyron - Large 4 legged insectoids with 2 large mandibles with claws. Have large incisors
+			as well as wings that allow them to jump large distances. Sensitive to flame attacks
+
+	Void Stalker - 4 legged predatory creature that is known for its aggressive behaviour
+					Grey smooth skinned with no hair or fur. Have mane's made out of 
+					boneless tentacles.
+
+	Wyrm - scale from medium to large reptiles with the smaller ones only able to crawl on 4 legs 
+			while the larger ones are fully able to run on 2 large hind legs. Have long necks and
+			non functioning wings. Their intelligence, speed and breath attacks make them feared
+			hunters.
+
+	Gultch - Large aggressive creature with two large forearms that cary the creature along with 2 
+			 double jointed hoofed smaller hind legs. Its head is stooped low with a large brow.
+			 Is known for charging on anything that invades its territory and for its use of its
+			 large forearms in assaulting its victims. 
+			 
+--|Colossal|--
+
+	Alenia - Forest Titian, is rarely seen but if "she" is ever she rarely exhibits aggressive behavior.
+			 Has been credited with large kills that happen out on the island with use of projectiles.
+			 Is not large in size and resembles like a normal human but extremely radiated but exhibits
+			 opposite effect from radiation that ghouls show. Her radiation keeps her in pristine condition
+			 and her youthfulness has stayed with her throughout the years. Her projectiles that are used are 
+			 tipped with some powerful explosive that she "found" from the downed spacecraft. Her exposure to
+			 the downed spacecraft is most likely the cause of her condition.
+	
+	Coatyl
+			
+			The giant subterranean creature that is credited with the sudden appearance of wyrms throughout the
+			island. It is said to be the mother of these creatures although its existance has yet to be confirmed.
+			Rumor describes it as a two legged reptilian with a snake like torso and tail. Destructions of settlements
+			outside the city have been credited to the Coatyl. For whatever reason it is public opinion that the
+			Coatyl is the main reason for the psionic emmiter.
+			
+	Zara
+	
+			A flightless creature that keeps to the underground subways of the city. Unlike the rest of the titans
+			it is trapped under the city unable to make its escape to the outreaches of the island. Viewed as a 
+			form of a diety it is worshiped by cultists above ground who make its location a closely guarded
+			secret. It feasts upon any unlucky adventures who wander near its hiding place or any sacrifices that
+			are willingly given to it by its cultists. Its body closely resembles a bat without fur and with a long
+			neck. It has an underbite and small beady eyes best suited for the dark damp underground tunnels of the 
+			subway. It has smooth skin with webbed wings that have not been used for a long time
+	
+	Tarthus
+	
+			The most harmless of the titans, Tarthus remains a giant hulk of rock and stone fixed in the island. It
+			has never been reported to have moved from its location and is believed to be content there as it has never
+			made an attack against the city which it could easily over run. Its head is deep underground and its hot
+			breathing can be felt troughout the tunnels that are in the surounding area. None have been brave enough to 
+			find the source of breathing in fear of waking the huge monster.
+	
+	Zuhulu
+	
+			Although the Zuhulu is almost myth it is still treated as a titan as the monsterous waves and storms from the 
+			sea are said to be the wrath of Zuhulu against humanity. It is mere speculation as no sightings have been
+			seen of a giant sea creature big enough to match its description. It remains an idea though that the 
+			sea remains relentless especially as the Earth's currents have changed from the drastic change of weather
+			due to nuclear fallout.
+	
+--------
+
+|Graphs|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+--------
+
+
+~~~Wealth~~~
+
+level	voltz
+2		900
+3		2700
+4		5400
+5		9000
+6		13000
+7		19000
+8		27000
+9		36000
+10		49000
+
+~~~Health~~~
+level	avg health	avg AC
+1		9			13
+2		14			15
+3		19			17
+4		24			19
+5		29			21
+6		34			23
+7		39			25
+8		44			27
+9		49			29
+10		54			31
+
+
+
+------
+
+|Loot|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------
+
+
+Common (Junk)
+
+	1 Volt Batteries
+	small blade
+	linen\rag\binding
+	metal bars
+	wood
+	worn book
+	rotting furniture
+	metal tubes
+	street poles
+	fire hydrant
+	bolts
+	nails
+	screws
+	broken glass
+	copper wire
+	
+Uncommon (crafting materials)
+
+	3 Volt Batteries
+	9 Volt Batteries
+	scrap metal
+	rubber hose
+	metal hose
+	padlock
+	lunch box
+	metal chain
+	scrap metal
+	motor oil
+	plastic materials
+	broken mirror
+	bottles
+	fertilizer
+	pencil
+	cigarettes
+	aluminium
+	syringe
+	
+Rare items (manufacured goods)
+	
+	jumper cables
+	needle + thread
+	alcohol
+	matches
+	lighter
+	rotting food
+	pilot light
+	gun parts
+		-hilt
+		-trigger
+		-rifling
+		-barrel
+	crowbar
+	grenade
+	frag mine
+	propane tank
+	air tank (sm\med)
+	car battery
+	motor
+	ammonia
+	box of detergent
+	petrolium jelly
+	iodine
+	gasoline
+	circuit board
+	wireless reciever
+	ammo
+		-.22
+		-9mm
+		-.380
+		-5.56
+		-.45
+		-.30
+		-.308
+		-shell
+		-slug
+	
+Very Rare items (effective weapons)
+
+	Baseball Bat
+	Shiv
+	Baton
+	AK47
+	AR15
+	M16
+	M1 Garand
+	Remington 870
+	Glock 17
+	Colt Peacemaker
+	Ruger mkIII
+	Springfield 70
+	dynamite
+
+
+Quest rewards
+	
+	Plasmids?
+	Guns
+	Ammo
+	Schematics
+	Flux crystals
+	Components
+	ARC Batteries
+	Power Armor
+	Food
+	Water
+	
+----------------
+
+|Starting Items|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+----------------
+
+
+Marine 			AR-15, combat gear(torso +2 AC), 5X 5.56 rounds, 2d10 voltz, bayonette
+Savage 			nail board, 2d10 voltz, fur tunic (torso +1 AC), hit of rage, hit of crystal
+Doc				60 WATT ARC battery, field medic garb (+1 AC), 2d10 voltz, colt .45, 6X .45 rounds, bone saw, basic bandage
+Thief			50 WATT ARC battery, lockpick set, 2d10 voltz, crude leather armor(+1 AC), weak poison, poachers dagger
+Survivalist		M1 Garand, 6X .30 rounds, 2d10 voltz, machette, beef jerky, combat gear(+2 AC)
+Tech			70 WATT ARC battery, 2d10 voltz, decking HUD, Glock, 6X 9mm rounds, grenade, field engineers jacket(+1 AC), combat dagger
+

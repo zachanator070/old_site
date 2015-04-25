@@ -1,0 +1,380 @@
+@media only screen 
+and (min-width : 1224px) {
+
+	/*BASIC BUILD*/
+
+	body{
+	background-color:#070805;
+	color:#a0f2ea;
+	}
+
+	#frame{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:920;
+
+	}
+
+	#scroll{
+	color:#a0f2ea;
+	width:920;
+	height:80;
+	font-family: 'Orbitron', sans-serif;
+
+	}
+
+	#anchors{
+	position:absolute;
+	left:1;
+	top:80
+	width:800;
+	height:25px;
+	}
+
+	#clock{
+	position:absolute;
+	right:4;
+	top:80;
+	height:20px;
+	width:110;
+	height:25px;
+	font-family: BankGothic Md BT, Helvetica, Arial, Geneva;
+	background:rgba(10,114,136,.2);
+	border-bottom:#a0f2ea thin solid ;
+	border-right:#a0f2ea 4px solid;
+	}
+
+
+	#content{
+	position:absolute;
+	left:1;
+	top:105;
+	width:800;
+	background:rgba(10,114,136,.2);
+	border-left:#a0f2ea 4px solid;
+	border-top:#a0f2ea thin solid ;
+	font-family: 'Orbitron', sans-serif;
+	}
+
+	#nav{
+	position:absolute;
+	right:1;
+	top:105;
+	width:120;
+	}
+
+	a{
+	color:white;
+	}
+
+	a:hover{
+	color:#42B4CA;
+	}
+
+	h1{
+	padding-left:15px;
+	}
+
+	h2{
+	padding-left:15px;
+	}
+
+	h3{
+	padding-left:15px;
+
+	}
+
+	p{
+	padding:20px;
+	}
+
+	/*LOLS PAGE*/
+
+	div.lols{
+
+	height:700;
+
+	}
+
+
+	/*MINECRAFT*/
+
+	a.minecraft{
+	position:absolute;
+	left:25;
+	top: 100;
+	width:200;
+	height:300;
+	text-decoration:none;
+	}
+
+	#minecraft{
+	position:absolute;
+	left:50;
+	top: 100;
+	width:200;
+	height:300;
+	text-decoration:none;
+	}
+
+	#minecraft_on{
+	background:rgba(10,114,136,.2);
+	position:absolute;
+	left:50;
+	top: 100;
+	width:200;
+	height:300;
+	visibility:hidden;
+	}
+
+	p.minecraft{
+	color:#a0f2ea;
+	margin-top:90;
+	text-align:center;
+	}
+
+	img.screenshot{
+	margin-left:20px;
+	}
+
+	div.screenshots{
+	margin:20px;
+
+	}
+
+	/*DND*/
+
+	a.dnd{
+	position:absolute;
+	left:400;
+	top: 120;
+	width:250;
+	height:265;
+	text-decoration:none;
+	}
+
+	#dnd{
+	position:absolute;
+	left:0px;
+	top: 100;
+	width:250;
+	height:265;
+	text-decoration:none;
+	}
+
+	#dnd_on{
+	background:rgba(10,114,136,.2);
+	position:absolute;
+	left:0px;
+	top: 100;
+	width:250;
+	height:265;
+	visibility:hidden;
+	}
+
+	p.dnd{
+	color:#a0f2ea;
+	margin-top:60;
+	text-align:center;
+	}
+}
+
+@media only screen
+and (min-device-width :320px)
+and (max-device-width : 640px){
+
+	/*BASIC BUILD*/
+
+	body{
+	background-color:#070805;
+	color:#a0f2ea;
+	font-size:20px;
+	}
+
+	#frame{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:920;
+
+	}
+
+	#scroll{
+	color:#a0f2ea;
+	width:800px;
+	height:80px;
+	
+	font-family: 'Orbitron', sans-serif;
+
+	}
+	
+	marquee{
+	
+	visibility:hidden;
+	}
+
+	#anchors{
+	position:absolute;
+	left:1;
+	top:105;
+	width:800;
+	height:60px;
+	border-left:#a0f2ea 4px solid;
+	border-top:#a0f2ea thin solid ;
+	}
+
+	#clock{
+	position:absolute;
+	right:110;
+	top:105;
+	height:20px;
+	width:110;
+	height:25px;
+	font-family: BankGothic Md BT, Helvetica, Arial, Geneva;
+	background:rgba(10,114,136,.2);
+	border-bottom:#a0f2ea thin solid ;
+	border-right:#a0f2ea 4px solid;
+	}
+
+
+	#content{
+	position:absolute;
+	left:1;
+	top:165;
+	width:800;
+	background:rgba(10,114,136,.2);
+	border-left:#a0f2ea 4px solid;
+	
+	font-family: 'Orbitron', sans-serif;
+	}
+
+	#nav{
+	position:absolute;
+	left:1px;
+	top:0px;
+	width:900px;
+	
+	}
+	
+	.navimg{
+	height:110px;
+	width:200px;
+	
+	}
+	
+	a{
+	color:white;
+	}
+
+	a:hover{
+	color:#42B4CA;
+	}
+
+	h1{
+	padding-left:15px;
+	}
+
+	h2{
+	padding-left:15px;
+	}
+
+	h3{
+	padding-left:15px;
+
+	}
+
+	p{
+	padding:20px;
+	}
+
+	/*LOLS PAGE*/
+
+	div.lols{
+
+	height:700;
+
+	}
+
+
+	/*MINECRAFT*/
+
+	a.minecraft{
+	position:absolute;
+	left:25;
+	top: 100;
+	width:200;
+	height:300;
+	text-decoration:none;
+	}
+
+	#minecraft{
+	position:absolute;
+	left:50;
+	top: 100;
+	width:200;
+	height:300;
+	text-decoration:none;
+	}
+
+	#minecraft_on{
+	background:rgba(10,114,136,.2);
+	position:absolute;
+	left:50;
+	top: 100;
+	width:200;
+	height:300;
+	visibility:hidden;
+	}
+
+	p.minecraft{
+	color:#a0f2ea;
+	margin-top:90;
+	text-align:center;
+	}
+
+	img.screenshot{
+	margin-left:20px;
+	}
+
+	div.screenshots{
+	margin:20px;
+
+	}
+
+	/*DND*/
+
+	a.dnd{
+	position:absolute;
+	left:400;
+	top: 120;
+	width:250;
+	height:265;
+	text-decoration:none;
+	}
+
+	#dnd{
+	position:absolute;
+	left:0px;
+	top: 100;
+	width:250;
+	height:265;
+	text-decoration:none;
+	}
+
+	#dnd_on{
+	background:rgba(10,114,136,.2);
+	position:absolute;
+	left:0px;
+	top: 100;
+	width:250;
+	height:265;
+	visibility:hidden;
+	}
+
+	p.dnd{
+	color:#a0f2ea;
+	margin-top:60;
+	text-align:center;
+	}
+}
