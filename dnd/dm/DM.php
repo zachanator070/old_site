@@ -92,6 +92,8 @@ HTML;
 			$html.= "Upload file:<input type='file' name='pictureToUpload' id='pictureToUpload' /><br/>"."\n";
 			$html.= "File from URL:<input type='text' name='pictureFromURL' size='10'/><br/>"."\n";
 			
+			$html.="<br/><br/><input type='submit' value='Share Picture'><br/><br/>";
+			
 			$pictures = scandir('../characters/DM/',1);
 			
 			$size =count($pictures)-2;
@@ -110,7 +112,6 @@ HTML;
 				
 			}
 			
-			$html.="<br/><input type='submit' value='Share Picture'>";
 			$html.= "\n</form>";
 			
 			return $html;
