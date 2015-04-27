@@ -149,12 +149,12 @@ ABILITY;
 						Your hit die is a d$hd so you can roll a d$hd and add that amount
 						to your total health here:<br><br/>
 						Health : {$this->character->defense['hp']} + <input type='text' size='2' name='moreHealth'/><br/>
-						<a onclick='skillQuestion()'>Next</a>
+						
 					</p>
 				
 					<p>
-						You are now more skillful and have more ranks to assign to skills.<br/>
-						
+						You are now more skillful and have more ranks to assign to skills.
+						<br/><br/>
 						Skills remaining:
 						<span id="remaining">
 							$newSkills
