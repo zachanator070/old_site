@@ -95,7 +95,39 @@ HEAD;
 				$totalSkills+=$skill->ranks;
 			}
 			
-			//error_log("new skills:".$newSkills." total skills: ".$totalSkills);
+			$extraFeat = "";
+			
+			if($level%3==0){
+				$extraFeat = <<<"FEAT"
+					You are able to select another feat! <br/>
+					It is advised to open up another tab to look at the
+					"feat" section in the player's guide to find a feat that is
+					right for you.<br/>
+					Feat Name:
+					<input type='text' size='4' name='newFeatName'/>
+					<br/>
+					Feat Description:
+					<textarea rows='4' class='largecell' cols ='35' name='newFeatDescription'></textarea>
+					<br/>
+					<input type="hidden" name="newFeat" id="newFeat"value = "true"/>
+FEAT;
+			}
+			
+			$extraAbility = "";
+			
+			if($level%4==0){
+				$extraAbility = <<<"ABILITY"
+					You are able to put one point into an ability. Your current score for each ability is displayed next to each button:<br/>
+					<input type='radio' name='newAbility' value='strength'>Strength({$this->character->attributes['strength']})<br/>
+					<input type='radio' name='newAbility' value='dexterity'>Dexterity({$this->character->attributes['dexterity']})<br/>
+					<input type='radio' name='newAbility' value='constitution'>Constitution({$this->character->attributes['constitution']})<br/>
+					<input type='radio' name='newAbility' value='intelligence'>Intelligence({$this->character->attributes['intelligence']})<br/>
+					<input type='radio' name='newAbility' value='wisdom'>Wisdom({$this->character->attributes['wisdom']})<br/>
+					<input type='radio' name='newAbility' value='charisma'>Charisma({$this->character->attributes['charisma']})<br/>
+					<br/>
+ABILITY;
+			
+			}
 			
 			$skillTable = $this->generateSkillTable();
 			
@@ -106,78 +138,45 @@ HEAD;
 				<input type="hidden" name="startingskills" id="startingskills" value = "$totalSkills">
 				<input type="hidden" id="level" value = "$level">
 				<input type='hidden' name='name' value="{$this->character->name}">
-					<div id='gratsPanel' class='startPanel'>
-						<p>
-							Congrats and welcome to level $level !<br/>
-							You have a few things that you can change now that you
-							have grown a level.<br/><br/>
-							<a onclick='healthQuestion()'>Next</a>
-						</p>
-					</div>
 					
-					<div id='healthPanel' class='panel'>
-						<p>
-							The first thing to do is increase your health.<br/>
-							Your hit die is a d$hd so you can roll a d$hd and add that amount
-							to your total health here:<br><br/>
-							Health : {$this->character->defense['hp']} + <input type='text' size='2' name='moreHealth'/><br/>
-							<a onclick='skillQuestion()'>Next</a>
-						</p>
-					
-					</div>
-					
-					<div id='skillPanel' class='panel'>
-						<p>
-							You are now more skillful and have more ranks to assign to skills.<br/>
-							
-							Skills remaining:
-							<span id="remaining">
-								$newSkills
-							</span>
-							
-							<br/>
-							
-							$skillTable
-							
-							<br/>
-							<a onclick='featQuestion()'>Next</a>
-						</p>
-					
-					</div>
-					
-					<div id='featPanel' class='panel'>
-						<p>
-							You are able to select another feat! <br/>
-							It is advised to open up another tab to look at the
-							"feat" section in the player's guide to find a feat that is
-							right for you.<br/>
-							Feat Name:
-							<input type='text' size='4' name='newFeatName'/>
-							<br/>
-							Feat Description:
-							<textarea rows='4' class='largecell' cols ='35' name='newFeatDescription'></textarea>
-							<br/>
-							<input type="hidden" name="newFeat" id="newFeat"value = "false"/>
-							<a onclick='abilityQuestion()'>Next</a>
-						</p>
-					</div>
-					
-					<div id='abilityPanel' class='panel'>
-						You are able to put one point into an ability. Your current score for each ability is displayed next to each button:<br/>
-						<input type='radio' name='newAbility' value='strength'>Strength({$this->character->attributes['strength']})<br/>
-						<input type='radio' name='newAbility' value='dexterity'>Dexterity({$this->character->attributes['dexterity']})<br/>
-						<input type='radio' name='newAbility' value='constitution'>Constitution({$this->character->attributes['constitution']})<br/>
-						<input type='radio' name='newAbility' value='intelligence'>Intelligence({$this->character->attributes['intelligence']})<br/>
-						<input type='radio' name='newAbility' value='wisdom'>Wisdom({$this->character->attributes['wisdom']})<br/>
-						<input type='radio' name='newAbility' value='charisma'>Charisma({$this->character->attributes['charisma']})<br/>
+					<p>
+						Congrats and welcome to level $level !<br/>
+						You have a few things that you can change now that you
+						have grown a level.<br/><br/>
+					</p>
+					<p>
+						The first thing to do is increase your health.<br/>
+						Your hit die is a d$hd so you can roll a d$hd and add that amount
+						to your total health here:<br><br/>
+						Health : {$this->character->defense['hp']} + <input type='text' size='2' name='moreHealth'/><br/>
+						<a onclick='skillQuestion()'>Next</a>
+					</p>
+				
+					<p>
+						You are now more skillful and have more ranks to assign to skills.<br/>
+						
+						Skills remaining:
+						<span id="remaining">
+							$newSkills
+						</span>
+						
 						<br/>
-						<a onclick='finishQuestion()'>Next</a>
-					</div>
+						
+						$skillTable
+						
+						<br/>
+					</p>
+						
+					<p>
+						$extraFeat
+					</p>
 					
-					<div id='finishedPanel' class='panel'>
-						You are now done leveling up. Click the button to submit your changes.<br/>
-						<input type='submit' value='Submit'>
-					</div>
+					<p>
+						$extraAbility
+					</p>
+					
+					<input type='Submit' value='Submit'>
+				
 				</form>
 LEVEL;
 			return $level;
