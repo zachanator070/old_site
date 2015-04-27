@@ -56,7 +56,7 @@
 				$this->character->attributes[$_POST['newAbility']]+=1;
 			}
 			
-			if($_POST['newFeat']=="true"){
+			if(isset($_POST['newFeat'])&&$_POST['newFeat']=="true"){
 				$newFeat = new Feat($_POST['newFeatName'],$_POST['newFeatDescription']);
 				array_push($this->character->feats,$newFeat);
 			}

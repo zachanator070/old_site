@@ -224,7 +224,7 @@
 			$queries[2]="UPDATE info SET player='".$character->player."', class='".$character->class."', level =".$character->level.", race='".$character->race."', age=".$character->age.", gender='".$character->gender."', background='".$character->background."' where name ='".$character->name."'"; 
 			$queries[3]="UPDATE saves SET fort_base=".$character->saves['fort_base'].", fort_misc=".$character->saves['fort_misc'].", reflex_base=".$character->saves['reflex_base'].", reflex_misc=".$character->saves['reflex_misc'].", will_base=".$character->saves['will_base'].", will_misc=".$character->saves['will_misc']." where name='".$character->name."'";
 			$queries[4]="UPDATE defense SET hd='".$character->defense['hd']."', hp =".$character->defense['hp'].", hp_cur=".$character->defense['hp_cur'].", ap_armor=".$character->defense['ap_armor'].", ap_shield= ".$character->defense['ap_shield'].", ap_misc=".$character->defense['ap_misc'].", radiation=".$character->defense['radiation'].", resistance=".$character->defense['resistance'].", armor_weight='".$character->defense['armor_weight']."' where name='".$character->name."'";
-			$queries[5]="UPDATE equipment SET list='".$character->equipment."', gold =".$character->voltz." where name ='".$character->name."'";
+			$queries[5]="UPDATE equipment SET list='".mysqli_real_escape_string($this->con,$character->equipment)."', gold =".$character->voltz." where name ='".$character->name."'";
 			$queries[6]="DELETE from attacks where name='".$character->name."'";
 			$queries[7]="UPDATE skills set class=0 where name='".$character->name."'";
 			$queries[8]="DELETE from feats where name='".$character->name."'";
@@ -242,7 +242,7 @@
 
 			foreach($character->attacks as $attack){
 				
-				$submit = "INSERT INTO attacks(name, attack_name, damage, critical, description) VALUES('".$character->name."', '".$attack->name."', '".$attack->damage."', '".$attack->critical."', '".$attack->description."' )";
+				$submit = "INSERT INTO attacks(name, attack_name, damage, critical, description) VALUES('".$character->name."', '".mysqli_real_escape_string($this->con,$attack->name)."', '".$attack->damage."', '".$attack->critical."', '".mysqli_real_escape_string($this->con,$attack->description)."' )";
 				$result = mysqli_query($this->con,$submit);
 				if (!$result) {
 					die('Invalid query: ' . mysqli_error($this->con)."<br/>");
@@ -252,7 +252,7 @@
 			
 			foreach($character->feats as $feat){
 				
-				$submit = "INSERT INTO feats(name, feat, description) VALUES('".$character->name."', '".$feat->name."', '".$feat->description."' )";
+				$submit = "INSERT INTO feats(name, feat, description) VALUES('".$character->name."', '".mysqli_real_escape_string($this->con,$feat->name)."', '".mysqli_real_escape_string($this->con,$feat->description)."' )";
 				$result = mysqli_query($this->con,$submit);
 				if (!$result) {
 					die('Invalid query: ' . mysqli_error($this->con)."<br/>");
