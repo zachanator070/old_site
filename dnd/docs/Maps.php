@@ -21,6 +21,6 @@ CONTENT;
 	$template = new DocTemplate();
 	$maps = new Maps();
 	
-	$template->printHtml($maps->getContent(),'','');
+	$template->printHtml($maps->getContent(),'','','');
 	
 ?>
