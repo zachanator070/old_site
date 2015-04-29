@@ -9,7 +9,7 @@
 			$content = <<<"CONTENT"
 	
 			<h2>City of Dreams</h2><br/>
-			<img src='maps/City\ of\ Dreams\ Final.png' height='2632px' width='2932px'/>
+			<img src='maps/City of Dreams Final.png' height='800px' width='800px'/>
 		
 CONTENT;
 			return $content;
