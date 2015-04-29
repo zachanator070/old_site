@@ -15,6 +15,10 @@
 				<a href="StorySoFar.php">The Story So Far</a>
 				</p>
 				
+				<p>
+				<a href="Maps.php">Maps</a>
+				</p>
+				
 				
 				<h1>FAQ</h1>
 				<h2>What is Dungeons and Dragons?</h2>
