@@ -3,8 +3,7 @@ and (min-device-width :320px)
 and (max-device-width : 640px){
 
 	body{
-	background-image:url('build/background.png');
-	background-attachment:fixed;
+	background:url('build/background.png') fixed;
 	color:white;
 	font-size:270%;
 	}
