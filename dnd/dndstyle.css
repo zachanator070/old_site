@@ -397,7 +397,7 @@ and (min-width : 1224px) {
 	padding:30px 50px;
 	}
 	
-	a:link{
+	a{
 	color:#66acc6;
 	text-decoration:underline;
 	}
