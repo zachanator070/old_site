@@ -303,14 +303,14 @@ and (min-width : 1224px) {
 	text-decoration:none;
 	}
 	
+	a.link:visited{
+	color:white;
+	}
+	
 	a.link:hover{
 	color: white;
 	cursor:pointer;
 	text-decoration:underline;
-	}
-
-	a.link:visited{
-	color:white;
 	}
 	
 	button{
@@ -396,18 +396,18 @@ and (min-width : 1224px) {
 	padding:30px 50px;
 	}
 	
-	a{
+	a:link{
 	color:#66acc6;
 	text-decoration:underline;
 	}
 
+	a:visited{
+	color:#66acc6;
+	}
+	
 	a:hover{
 	color: white;
 	cursor:pointer;
-	}
-
-	a:visited{
-	color:#66acc6;
 	}
 	
 	p{
