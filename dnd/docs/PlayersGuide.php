@@ -465,16 +465,18 @@ CONTENTS;
 					
 					
 					<a id="skills"></a><h1>Skills</h1>
-					
+					<h2>Class Skills</h2>
 					<p>
-					Max class skill = character level + 3
-					<br/><br/>
-					Max cross class skill = half of max class skill. (Round down)
-					<br/><br/>
-					Starting skills = (class skill point modifier + INT modifier)*4
-					<br/><br/>
-					Skill points each level = class skill point modifier + INT modifier
+					Class skills are skills that are associated with your class as defined in each class
+					description. Cross class skills are those that are not associated with your class but you
+					can still gain ranks in them. Some things to note about class and cross class skills:
 					</p>
+					<ul>
+					<li>Max class skill = character level + 3</li>
+					<li>Max cross class skill = half of max class skill. (Round down)</li>
+					<li>Starting skills = (class skill point modifier + INT modifier)*4</li>
+					<li>Skill points each level = class skill point modifier + INT modifier</li>
+					</ul>
 					
 					<h2>List of Skills</h2>
 					
@@ -877,13 +879,14 @@ CONTENTS;
 					<a id="items"></a><h1>Items</h1>
 					
 					<p>
-
-					*this lists a few of the basic things that you may encounter 
-								and is in no way a complete list*
+						Along the course of your journey throughout The Waste, you will encounter an interesting assortment of
+						items that you may not be familiar with. It is important to be knowledgable about the loot of the waste
+						that you may be better equiped for all situations.
 					</p>
 
-
-					<h3>Scrap bolts (100 voltz)</h3>
+					<h2>Metal</h2>
+					
+					<h3>Scrap Metal (100 voltz)</h3>
 					<p class="skilltext">
 						Represents 1 lb of small metal objects. Items may be 
 						converted to scrap metal but not vice-versa. Used in
@@ -897,7 +900,7 @@ CONTENTS;
 					<h3>Battery (worth its capacity)</h3>
 						
 						
-					<h3>Food </h3>
+					<h2>Food </h2>
 					<p class="skilltext">
 						Food is so rare it is it's own currency and is extremely 
 						valuable in the vast waste. Many people will be very 
@@ -975,6 +978,18 @@ CONTENTS;
 						
 					<h2>MELEE WEAPONS</h2>
 
+					<h3>Melee Attacks</h3>
+					<p>
+					How to determine attack with a melee weapon:
+					<br/><br/>
+					attack = str modifier + melee weapon skill/3
+					<br/><br/><br/>
+					How to determine damage with a melee weapon:
+					<br/><br/>
+					damage = str modifier + weapon damage
+					<br/>
+					</p>
+					
 					<h3>Baseball Bat (1d6+1) (crit 19-20 x2)</h3>
 					<p class="skilltext">
 						Hit a homer with this crude weapon. Hit as hard as 
@@ -995,18 +1010,22 @@ CONTENTS;
 
 					<h3>Baton (1d6) (crit 19-20 x2)</h3>
 					<p class="skilltext">
-						Useful for crowd control or just beating the tar 
-						out of someone. Has a shorter range than you think. 
-						</p>
-						
-					<p>
-					How to determine damage with a melee weapon:
-					<br/><br/>
-					damage = str modifier + weapon damage
-					
+					Useful for crowd control or just beating the tar 
+					out of someone. Has a shorter range than you think. 
 					</p>
 					
 					<h2>RANGED WEAPONS</h2>
+					
+					<h3>Ranged Attacks</h2>
+					<p>
+					How to determine attack with a ranged weapon:
+					<br/><br/>
+					attack = dex modifier + ranged weapon skill/3
+					<br/><br/><br/>
+					How to determine damage with a ranged weapon:
+					<br/><br/>
+					damage = bullet damage + weapon damage
+					</p>
 					
 					<p>
 					<h3>Weight Conversion</h3>
@@ -1029,19 +1048,12 @@ CONTENTS;
 					
 					<h3>Damage per bullet type</h3>
 					<p class="skilltext">
-						Hull Point = +1
-						Armor Penetrating = +2
-						Explosive = +2
-						Dragons Breath = +1d4 fire damage
+						Hull Point = +1<br/>
+						Armor Penetrating = +2<br/>
+						Explosive = +2<br/>
+						Dragons Breath = +1d4 fire damage<br/>
 					</p>
 					
-					<p>
-					How to determine damage with a ranged weapon:
-					<br/><br/>
-					damage = bullet damage + weapon damage
-					</p>
-
-
 					<h2>Rifles</h2>
 					 
 					 <p>
@@ -1180,11 +1192,14 @@ CONTENTS;
 
 					<h2>Attacking</h2>
 					<p>
-					Attack roll: Any weapon - use d20 and add weapon skill/3
+					Attack roll: <br/>
+					Melee - use d20 + str modifier + melee weapon skill/3<br/>
+					Ranged - use d20 + dex modifier + weapon skill/3
 					<br/><br/>		 
 								 
-					Damage roll: Melee - use weapon damage dice + str modifier
-								 Ranged - use weapon damage dice + bullet type damage 
+					Damage roll:<br/>
+					Melee - use weapon damage dice + str modifier<br/>
+					Ranged - use weapon damage dice + bullet type damage<br/>
 					<br/><br/>			 
 					Ammo: Each ranged weapon has a fire rate. Fire rate determines ammunition used to make a single successful attack per turn.
 					</p>
