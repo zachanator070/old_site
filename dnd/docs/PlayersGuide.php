@@ -13,6 +13,7 @@
 		function getContents(){
 		
 			$contents = <<<"CONTENTS"
+				<div id="dummy">
 					<div id="dummy2"><img id="arrows" class="arrows" src="../build/arrows.png" onclick="showcontents()"/></div>
 						
 					<div id="contents">
@@ -30,7 +31,7 @@
 								</p>
 								
 					</div>
-					
+				</div>	
 CONTENTS;
 		
 			return $contents;
@@ -136,7 +137,7 @@ CONTENTS;
 					
 					<br/>
 					<h3>Saves</h3>
-					<table>
+					<table class='saves'>
 					<tr><td>Level</td><td>Fort<br/>Save</td><td>Ref<br/>Save</td><td>Will<br/>Save</td><td>Special</td></tr>
 					<tr><td>1st</td><td>+1</td><td>+0</td><td>+0</td><td></td></tr>
 					<tr><td>2nd</td><td>+3</td><td>+0</td><td>+0</td><td>+1 Feat or +1 to all weapon skills</td></tr>
@@ -177,7 +178,7 @@ CONTENTS;
 					<h2>Savage</h2>
 					
 					<h3>Saves</h3>
-					<table>
+					<table class='saves'>
 					<tr><td>Level</td><td>Fort<br/>Save</td><td>Ref<br/>Save</td><td>Will<br/>Save</td><td>Special</td></tr>
 					<tr><td>1st</td><td>+2</td><td>+0</td><td>+0</td><td>Berserk +/-5, Animal familiar</td></tr>
 					<tr><td>2nd</td><td>+3</td><td>+0</td><td>+0</td><td></td></tr>
@@ -221,7 +222,7 @@ CONTENTS;
 					
 					
 					<h3>Saves</h3>
-					<table>
+					<table class='saves'>
 					<tr><td>Level</td><td>Fort<br/>Save</td><td>Ref<br/>Save</td><td>Will<br/>Save</td><td>Special</td></tr>
 					<tr><td>1st</td><td>+0</td><td>+0</td><td>+2</td><td>Bandages</td></tr>
 					<tr><td>2nd</td><td>+0</td><td>+0</td><td>+3</td><td>Antidote</td></tr>
@@ -284,7 +285,7 @@ CONTENTS;
 					<h2>Thief</h2>
 					
 					<h3>Saves</h3>
-					<table>
+					<table class='saves'>
 					<tr><td>Level</td><td>Fort<br/>Save</td><td>Ref<br/>Save</td><td>Will<br/>Save</td><td>Special</td></tr>
 					<tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>Sneak attack +1d6</td></tr>
 					<tr><td>2nd</td><td>+0</td><td>+3</td><td>+0</td><td>Evasion</td></tr>
@@ -333,7 +334,7 @@ CONTENTS;
 					<h2>Survivalist</h2>
 				
 					<h3>Saves</h3>
-					<table>
+					<table class='saves'>
 					<tr><td>Level</td><td>Fort<br/>Save</td><td>Ref<br/>Save</td><td>Will<br/>Save</td><td>Special</td></tr>
 					<tr><td>1st</td><td>+2</td><td>+2</td><td>+0</td><td>1st favored enemy (+2 bonus)</td></tr>
 					<tr><td>2nd</td><td>+3</td><td>+3</td><td>+0</td><td>Animal companion</td></tr>
@@ -383,7 +384,7 @@ CONTENTS;
 					<h2>Tech</h2>
 					
 					<h3>Saves</h3>
-					<table>
+					<table class='saves'>
 					<tr><td>Level</td><td>Fort<br/>Save</td><td>Ref<br/>Save</td><td>Will<br/>Save</td><td>Special</td></tr>
 					<tr><td>1st</td><td>+0</td><td>+0</td><td>+2</td><td>1 Robo Familiar</td></tr>
 					<tr><td>2nd</td><td>+0</td><td>+0</td><td>+3</td><td></td></tr>
@@ -431,7 +432,7 @@ CONTENTS;
 
 					<h2>Tables</h2>
 
-					<table>
+					<table class='saves'>
 					<caption>Class Hit Die</caption>
 					<tr><td>HD</td><td>Class</td></tr>
 					<tr><td>d4</td><td>Tech, Doc</td></tr>
@@ -441,11 +442,13 @@ CONTENTS;
 					<tr><td>d12</td><td>Savage</td></tr>
 					</table>
 					<br/><br/>
+					<p>
 					*NOTE*<br/>
 					-Starting health is equal to the max value of a character's hit dit (ex: 6 for a d6) plus constitution modifier<br/>
 					-When levelling up, add 1HD + constitution modifier to your health.<br/>
+					</p>
 					<br/><br/>
-					<table>
+					<table class='saves'>
 					<caption>Skill Point Modifiers</caption>
 					<tr><td>Class</td><td>Modifier</td></tr>
 					<tr><td>Marine</td><td>+4</td></tr>

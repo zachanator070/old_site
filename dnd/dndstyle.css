@@ -411,7 +411,19 @@ and (min-width : 1224px) {
 	}
 
 	img.arrows{
-		visibility:hidden;
+	visibility:hidden;
+	}
+	
+	ul{
+	margin:0px 80px;
+	}
+	
+	h3{
+	margin:0px 80px;
+	}
+	
+	table.saves{
+	margin:0px 80px;
 	}
 	
 	p.subtext{
