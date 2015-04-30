@@ -103,14 +103,6 @@ and (max-device-width : 640px){
 		border-top: thin solid #66acc6;
 		z-index:10;
 	}
-	
-	p.contents{
-	margin:15px 10px; 
-	}
-	
-	h2.contents{
-	margin:10px 5px;
-	}
 
 	img.arrows{
 		visibility:visible;
@@ -416,6 +408,14 @@ and (min-width : 1224px) {
 	top:190px;
 	right:0px;
 	background-color: rgba(0,0,0,0.4);
+	}
+
+	p.contents{
+	margin:15px 10px; 
+	}
+	
+	h2.contents{
+	margin:10px 5px;
 	}
 
 	img.arrows{
