@@ -11,6 +11,7 @@ class QuizTemplate{
 	<html>
 		<head>
 			<link rel = "stylesheet" type = "text/css" href = "../dndstyle.css">
+			<link href='http://fonts.googleapis.com/css?family=Armata' rel='stylesheet' type='text/css'>
 			<meta charset="UTF-8">
 			$head
 		</head>

@@ -5,6 +5,7 @@ and (max-device-width : 640px){
 	body{
 	background:url('build/background.png') fixed;
 	color:white;
+	font-family: 'Armata', sans-serif;
 	font-size:270%;
 	}
 
@@ -265,6 +266,7 @@ and (min-width : 1224px) {
 	body{
 	background:url('build/background.png') fixed;
 	color:white;
+	font-family: 'Armata', sans-serif;
 	}
 
 	#frame{
