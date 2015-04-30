@@ -263,7 +263,7 @@ and (min-width : 1224px) {
 	/*build*/
 
 	body{
-	background-image:url('build/background.png');
+	background:url('build/background.png') fixed;
 	color:white;
 	}
 
