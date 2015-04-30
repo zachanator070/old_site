@@ -1226,7 +1226,7 @@ CONTENTS;
 					The effects of radiation are determined as such:
 					</p>
 					
-					<table class="saves">
+					<table class="saves" border='1'>
 					<tr><td><10</td><td>no ill effects</td></tr>
 
 					<tr><td>11-25</td><td>-1 str<br/>-1 dex</td></tr>
@@ -1279,7 +1279,7 @@ CONTENTS;
 					10 + save mod > 10 + caster level + (wattage of weapon / 10)
 					<br/><br/>
 					
-					<table>
+					<table border='1'>
 						<caption>ARC Weapons</caption>
 					<tr><td>Flare Lamp</td><td>10 WATT Emits burst of light lasting 1d4 rounds</td></tr>
 
