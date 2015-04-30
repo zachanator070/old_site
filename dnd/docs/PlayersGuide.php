@@ -18,9 +18,9 @@
 						
 					<div id="contents">
 							
-								<h2>Contents</h2>
+								<h2 class="contents">Contents</h2>
 								
-								<p>
+								<p class="contents">
 								<br/><a href="#races">-Races</a>
 								<br/><a href="#classes">-Classes</a>
 								<br/><a href="#skills">-Skills</a>				
@@ -1127,9 +1127,10 @@ CONTENTS;
 						</p>
 						
 					<h2>Snipers</h2>
+					<p>
 					*All snipers have a range of 100ft*
 					*All unmodified snipers do 1d10 damage
-
+					</p>
 					<h3>Springfield 70</h3>
 					<p class="skilltext">
 						Ammo:(.308)
@@ -1138,7 +1139,21 @@ CONTENTS;
 						
 
 					<h2>EXPLOSIVES</h2>
-
+					
+					<h3>Explosives Attack</h3>
+					
+					<p class="skilltext">
+					
+					How to determine attack with an explosive weapon:
+					<br/><br/>
+					attack = dex modifier + explosives skill/3
+					<br/><br/><br/>
+					
+					How to determine damage with an explosive weapon:
+					<br/><br/>
+					damage = weapon damage
+					</p>
+					
 					<h3>Pineapple</h3>
 					<p class="skilltext">
 						Does 1d8 damage to 1d4 enemies in a 10ft radius 
@@ -1154,12 +1169,6 @@ CONTENTS;
 						from its impact point.
 					</p>
 					
-					<p>
-					How to determine damage with an explosive weapon:
-					<br/><br/>
-					damage = weapon damage
-
-					</p>
 					
 					<hr>
 					
@@ -1180,13 +1189,14 @@ CONTENTS;
 					<p>
 					Attacks of opportunity are extra attacks that ajacent enemies may take when certain actions
 					are taken. Examples of this are:
+					</p>
 					<ul>
 						<li>Drawing your weapon</li>
 						<li>Running next to an enemy without attacking it</li>
 						<li>Standing up from a prone position</li>
 						<li>Running away from an enemy without attacking it</li>
 					</ul>
-					
+					<p>
 					You may move away from an enemy when in combat but this will take 1 movement action and you
 					will only travel 5 ft. This is known as a "safe" move.
 					</p>
@@ -1216,7 +1226,7 @@ CONTENTS;
 					The effects of radiation are determined as such:
 					</p>
 					
-					<table>
+					<table class="saves">
 					<tr><td><10</td><td>no ill effects</td></tr>
 
 					<tr><td>11-25</td><td>-1 str<br/>-1 dex</td></tr>
