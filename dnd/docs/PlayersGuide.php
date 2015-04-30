@@ -1295,15 +1295,15 @@ CONTENTS;
 
 					<tr><td>Electro-puncture</td><td>20 WATT Facial electro needles that increase discuise rating by 5.</td></tr>
 
-					<tr><td>OmniWrench</td><td>20 WATT Charged melee blunt weapon that deals 1d6 damage</td></tr>
+					<tr><td>OmniWrench</td><td>20 WATT Charged melee blunt weapon that deals 1d8 damage</td></tr>
 
 					<tr><td>Holo-emitter</td><td>30 WATT Able to project 3D images and sounds on a countdown timer. Can distract 1d4 creatures with 1d6 hit die for 1d4 turns. WILL save negates</td></tr>
 
-					<tr><td>Stun Gun</td><td>30 WATT 30 ft ranged weapon that deals 1d6+1 damage. REFLEX halves.</td></tr>
+					<tr><td>Stun Gun</td><td>30 WATT 30 ft ranged weapon that deals 1d6+1 damage touch attack. REFLEX halves.</td></tr>
 
 					<tr><td>Tazer Field</td><td>30 WATT Personal force field surrounds user and deals 1d6+4 to enemies that touch it. FORTITUDE halves.</td></tr>
 
-					<tr><td>Laser Pistol</td><td>30 WATT 30 ft ranged weapon that deals 1d8 damage. REFLEX halves. May start fires</td></tr>
+					<tr><td>Laser Pistol</td><td>30 WATT 30 ft ranged weapon that deals 1d8 damage touch attack. REFLEX halves. May start fires</td></tr>
 
 					<tr><td>Magneton</td><td>30 WATT Recipient gains +2 AC from floating rotating electromagnets</td></tr>
 
