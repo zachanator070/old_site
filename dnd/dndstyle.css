@@ -287,8 +287,8 @@ and (min-width : 1224px) {
 	}
 
 	p.link{
-		text-align:center;
-		margin: 14px 0px;
+	text-align:center;
+	margin: 14px 0px;
 	}
 	
 	a.link{
