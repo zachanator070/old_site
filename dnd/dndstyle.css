@@ -406,6 +406,7 @@ and (min-width : 1224px) {
 	position:fixed;
 	width:145px;
 	top:190px;
+	right:0px;
 	background-color: rgba(0,0,0,0.4);
 	}
 

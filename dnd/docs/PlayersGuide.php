@@ -13,7 +13,6 @@
 		function getContents(){
 		
 			$contents = <<<"CONTENTS"
-				<div id="dummy">
 					<div id="dummy2"><img id="arrows" class="arrows" src="../build/arrows.png" onclick="showcontents()"/></div>
 						
 					<div id="contents">
@@ -32,8 +31,6 @@
 								
 					</div>
 					
-				
-				</div>
 CONTENTS;
 		
 			return $contents;

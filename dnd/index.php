@@ -24,7 +24,10 @@
 				 a smart phone. Click on the Character Sheet tab up at the top to
 				 see any previously created characters.
 				</p>
+				
+				<p>
 				<button onclick="window.location.href='quiz/index.php'">Create a Character</button>
+				</p>
 CONTENT;
 
 			return $content;
