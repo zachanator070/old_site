@@ -293,7 +293,9 @@ and (min-width : 1224px) {
 	}
 	
 	p.charsheetlink{
-	margin:5px 0px;
+	margin: 5px 0px;
+	text-align: center;
+	font-size: 14px;
 	}
 	
 	a.link{
@@ -321,6 +323,7 @@ and (min-width : 1224px) {
 	border-radius: 5px;
 	border: 2px solid #66ACC6;
 	color: white;
+	margin: 15px 0px;
 	}
 	
 	button:hover{
