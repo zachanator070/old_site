@@ -292,6 +292,10 @@ and (min-width : 1224px) {
 	font-size: 14px;
 	}
 	
+	p.charsheetlink{
+	margin:5px 0px;
+	}
+	
 	a.link{
 	color:white;
 	text-decoration:none;
