@@ -305,6 +305,7 @@ and (min-width : 1224px) {
 	
 	a.link:visited{
 	color:white;
+	text-decoration:none;
 	}
 	
 	a.link:hover{
