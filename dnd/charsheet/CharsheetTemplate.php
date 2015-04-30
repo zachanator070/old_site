@@ -19,7 +19,7 @@ class CharsheetTemplate{
 							<div id="back" class ="link"><p class="link"><a href='../../lols.php' class="link">Back to Lols</a></p></div>
 							<div id='link1' class="link"><p class="link"><a href='../index.php' class="link">DnD Home</a></p></div>
 							<div id='link2' class="link"><p class="link"><a href='../docs/index.php' class="link">Docs</a></p></div>
-							<div id='link3' class="link"><p class="link"><a href='Charsheet.php' class="link">Character Sheet</a></p></div>
+							<div id='link3' class="link"><p class="charsheetlink"><a href='Charsheet.php' class="link">Character<br/>Sheet</a></p></div>
 						</div>
 						
 						<div id='content'>
