@@ -476,9 +476,10 @@ CONTENTS;
 					Skill points each level = class skill point modifier + INT modifier
 					</p>
 					
+					<h2>List of Skills</h2>
 					
 					<h3>APPRAISE</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Used in bartering and determining value of items
 						<br/><br/>
 						DC<br/>
@@ -487,27 +488,27 @@ CONTENTS;
 						20 - within 5% of value
 						</p>
 					<h3>BALANCE</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Used to surpass traps in dungeons
 						<br/><br/>
 						DC depends on obstacle
 						</p>
 						
 					<h3>BLUFF</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						The ability to lie to people
 						<br/><br/>
 						DC compares against opponents Bluff check
 						</p>
 					<h3>CLIMB</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Used to surpass obstacles of height in dungeons
 						<br/><br/>
 						DC depends on obstacle
 						</p>
 						
 					<h3>COOKING</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Needed to create food that could otherwise not be edible
 						<br/>
 						<table>
@@ -519,7 +520,7 @@ CONTENTS;
 						</p>
 						
 					<h3>CRAFT</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						The ability to create items from schematics found in The Waste
 						<br/>
 						<table>
@@ -531,54 +532,54 @@ CONTENTS;
 						</p>
 						
 					<h3>DECKING</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						AKA Hacking or compromising a computer console
 						<br/><br/>
 						DC depends on obstacle
 						</p>
 						
 					<h3>DIPLOMACY</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						The ability to create friends and foes
 						<br/><br/>
 						DC compares against opponents Diploymacy check
 						</p>
 						
 					<h3>DISABLE DEVICE</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Used to disable any mechanical trap in dungeons
 						<br/><br/>
 						DC depends on obstacle
 						</p>
 						
 					<h3>DISGUISE</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Determines your ability to hide yourself in plain sight
 						<br/><br/>
 						DC compares against opponents Spot check
 						</p>
 						
 					<h3>ELECTRONICS</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Used to disable any electronic trap or use any electronic device
 						<br/><br/>
 						DC depends on obstacle
 						</p>
 
 					<h3>ESCAPE ARTIST</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Used to escape from bondage
 						<br/><br/>
 						DC depends on obstacle
 						</p>
 						
 					<h3>EXPLOSIVES</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Determines effectiveness with explosive devices
 						</p>
 
 					<h3>FORGERY</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Ability to create false documents
 						<br/><br/>
 						DC compares against opponents Wisdom check
@@ -587,7 +588,7 @@ CONTENTS;
 						</p>
 
 					<h3>GATHER INFORMATION</h3>
-						<p class="subtext">
+						<p class="skilltext">
 							General ability to gather gossip and information from surroundings
 							<br/>
 						<table>
@@ -601,14 +602,14 @@ CONTENTS;
 						</p>
 						
 					<h3>HANDLE ANIMAL</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Determines how friendly animals react to you 
 						<br/><br/>
 						DC compares to animals to animals Charisma check
 						</p>
 
 					<h3>HEAL</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Used to stabilize a dying companion. 
 						<br/>
 						<table>
@@ -619,78 +620,78 @@ CONTENTS;
 						</p>
 
 					<h3>HEAVY WEAPONS</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Determines effectiveness with heavy-class weapons
 						</p>
 						
 					<h3>HIDE</h3>
-						<p class="subtext">
+						<p class="skilltext">
 						Determines the ability to hide in shadows and coverings
 						<br/><br/>
 						DC compares against enemy Spot check
 						</p>
 						
 					<h3>INTIMIDATE</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines how well you can scare the pants off others
 						<br/><br/>
 						DC compares against enemy Bluff check
 						</p>
 
 					<h3>JUMP</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Used to overcome a large gap or vertical ledge
 						<br/><br/>
 						DC depends on obstacle
 						</p>
 
 					<h3>KNOWLEDGE</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines your understanding of a subject
 						<br/><br/>
 						DC depends on subject or situation
 						</p>
 
 					<h3>LISTEN</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Can be used to discover enemies before they see you
 						<br/><br/>
 						DC compares to enemy's Move Silently check 
 						</p>
 
 					<h3>MEDICINE</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Effectiveness with medicines and a scalpel to recover health
 						<br/><br/>
 						DC depends on drug/treatment being applied
 						</p>
 
 					<h3>MELEE WEAPONS</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines effectiveness with basic melee weapons
 						</p>
 
 					<h3>MOVE SILENTLY</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						How well you can sneak unnoticed by others
 						<br/><br/>
 						DC compares against enemy Listen check
 						</p>
 
 					<h3>OPEN LOCK</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Used to open mechanical locks
 						<br/><br/>
 						DC depends on obstacle
 						</p>
 
 					<h3>PISTOLS</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines your effectiveness with pistol class weapons
 						</p>
 
 					<h3>PROFESSION</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Can be used daily to gain voltz
 						<br/><br/>
 						Voltz = DC * user level
@@ -699,37 +700,37 @@ CONTENTS;
 						</p>
 
 					<h3>RIFLES</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines your effectiveness with rifle class weapons
 						</p>
 
 					<h3>SCIENCE</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You understanding of chemicals and chemical composition
 						</p>
 
 					<h3>SENSE MOTIVE</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines your ability to detect if someone is lying
 						</p>
 
 					<h3>SLEIGHT OF HAND</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines your ability to steal with out attracting attention
 						</p>
 
 					<h3>SPOT</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines your ability to identify things that others would simply pass by
 						</p>
 
 					<h3>SURVIVAL</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Used to forage for supplies outside and hunting creatures
 						</p>
 
 					<h3>SWIM</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Determines whether you sink or swim
 						</p>
 					
@@ -744,128 +745,128 @@ CONTENTS;
 					</p>
 					
 					<h3>Terrifying Presence</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You are a freak of nature.
 						+2 Intimidate
 						</p>
 
 					<h3>Radical!</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Exposure to radiation has given you a natural 
 						immunity to radiation poisoning. +4 Radiation Resistance
 						</p>
 
 					<h3>Scar tissue</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You are given a bonus for past battles and the 
 						experience from it. +1 Constitution
 						</p>
 						
 					<h3>Blade master</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You can use your dexterity bonus instead of strength 
 						bonus when fighting with blades of any kind
 						</p>
 
 					<h3>Mathlete</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You are as nerdy as they come
 						+3 Decking
 						</p>
 
 					<h3>Iron Gut</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You stomach acid is like battery acid
 						+3 Radiation Resistance when eating food
 						</p>
 
 					<h3>Atomic Growth</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You can drink from radiated water sources to regain 
 						1d6 health everyday
 						</p>
 
 					<h3>Tinker</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Get +1 to Open Lock, Electronics, and Decking
 						</p>
 
 					<h3>Iron chef</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Get a bonus to cooking for culinary school
 						+4 to Cooking
 						</p>
 
 					<h3>Dancing lessons</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Mom embarrassed you as a child and made you take 'em
 						+3 Reflex Saves
 						</p>
 
 					<h3>Duel wielding</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You have no penalty for using two pistols 
 						with both hands
 						</p>
 
 					<h3>Al Queda</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You like rifles, you get a +3 proficiency to 
 						the Rifle skill
 						</p>
 
 					<h3>Firebat</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Need a light?
 						Learn Napalm recipe
 						</p>
 
 					<h3>Arnold</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						The best gun is the biggest gun
 						+3 to Heavy Weapon skill.
 						</p>
 
 					<h3>Sheriff Rick</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Pistols are more your style
 						+3 to Pistols skill
 						</p>
 
 					<h3>Fullmetal Alchemist</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						In addition you receive a custom cocktail from the 
 						DM that only you can make. +3 Science 
 						</p>
 						
 					<h3>Black widow </h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You have a sexy side and when bluffing, bargaining, and
 						talking diplomatically with the opposite gender. 
 						You gain a +3 to rolls when doing so.
 						</p>
 
 					<h3>Cat like reflexes</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Can't touch this.
 						+1 AC permanently
 						+1 reflex save
 						</p>
 
 					<h3>Asian</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						You are just better for some reason.
 						+1 any ability score permanently
 						</p>
 
 					<h3>Kamikaze</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Boom goes the dynamite.
 						+3 to Explosives skill
 						</p>
 
 					<h3>Metaclorians</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Little nano organisms are taking nest in your blood
 						+2 Fortitude Saves
 					</p>
@@ -883,7 +884,7 @@ CONTENTS;
 
 
 					<h3>Scrap bolts (100 voltz)</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Represents 1 lb of small metal objects. Items may be 
 						converted to scrap metal but not vice-versa. Used in
 						various schematics and considered versatile when 
@@ -897,7 +898,7 @@ CONTENTS;
 						
 						
 					<h3>Food </h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Food is so rare it is it's own currency and is extremely 
 						valuable in the vast waste. Many people will be very 
 						hesitant to part with their food as it could be their 
@@ -910,12 +911,12 @@ CONTENTS;
 
 
 					<h2>MEDS</h2>
-					<p class="subtext">
+					<p class="skilltext">
 						Meds are a valuable commodity as well and are quite rare:
 					</p>
 					
 					<h3>Rad B Gone</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						From the makers of RadX and RadAway, Pipboy industries 
 						gives us another great product to help clear away that 
 						pesky radiation that exists well... everywhere.
@@ -926,7 +927,7 @@ CONTENTS;
 
 						
 					<h3>Smarts</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Smarts earned its street name from dealers around the 
 						city who advertise that	you will get "smarts" from it.
 						Other side effects have been noted to be apparent 
@@ -937,7 +938,7 @@ CONTENTS;
 						
 						
 					<h3>Crystal</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Recent drug activity has started circulation of 
 						methamphetamines, and a particular one called "Crystal" is
 						known for its slight blue hue and its effects on reflex 
@@ -949,7 +950,7 @@ CONTENTS;
 						
 
 					<h3>StimPak</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Government circulation of StimPaks have made this drug
 						a common site in The Wastes as people find a way to 
 						get rid of nerves and prepare for battle. Increased 
@@ -961,7 +962,7 @@ CONTENTS;
 						
 							
 					<h3>Rage</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Users of the street drug known as Rage have been 
 						reported as unstoppable. Rapid muscle growth and cell 
 						division are some common effects from this drug, but a
@@ -975,25 +976,25 @@ CONTENTS;
 					<h2>MELEE WEAPONS</h2>
 
 					<h3>Baseball Bat (1d6+1) (crit 19-20 x2)</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Hit a homer with this crude weapon. Hit as hard as 
 						you want but has a 5% chance to break each swing.
 						</p>
 
 					<h3>Improvised blunt weapon(1d4+2) (crit 20 x2)</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Don't have much? Use anything blunt! Has 5% chance
 						to fail and break.
 						</p>
 
 					<h3>Shiv (1d6) (crit 19-20 x2)</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Close quarters makeshift blade made to do 
 						the dirty work.
 						</p>
 
 					<h3>Baton (1d6) (crit 19-20 x2)</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Useful for crowd control or just beating the tar 
 						out of someone. Has a shorter range than you think. 
 						</p>
@@ -1027,7 +1028,7 @@ CONTENTS;
 					</p>
 					
 					<h3>Damage per bullet type</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Hull Point = +1
 						Armor Penetrating = +2
 						Explosive = +2
@@ -1049,35 +1050,35 @@ CONTENTS;
 					</p>
 
 					<h3>AK47</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo:(5.56/9mm)
 						Fire Rate:(3x)
 						Crit: 19-20 x2
 						</p>
 						
 					<h3>AR15</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo:(5.56)
 						Fire Rate:(3x)
 						Crit: 18-20 x2
 						</p>
 						
 					<h3>M16 </h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo:(5.56/.45)
 						Fire Rate:(3x)
 						Crit: 19-20 x2
 						</p>
 
 					<h3>M1 Garand</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo:(.30)
 						Fire Rate:(2x)
 						Crit: 18-20 x3
 						</p>
 
 					<h3>Remington 870 (Pump Shotgun)</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo:(shells)
 						Fire Rate:(1x)
 						Crit: 18-20 x2
@@ -1092,21 +1093,21 @@ CONTENTS;
 					</p>
 					
 					<h3>Glock 17</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo:(9mm)
 						Fire Rate:(2x)
 						Crit: 18-20 x3
 						</p>
 						
 					<h3>Colt Peacemaker</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo: (.45)
 						Fire Rate:(2x)
 						Crit: 18-20 x3
 						</p>
 						
 					<h3>Ruger mkIII</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo:(.22)
 						Fire Rate(2x)
 						Crit: 20 x2
@@ -1117,7 +1118,7 @@ CONTENTS;
 					*All unmodified snipers do 1d10 damage
 
 					<h3>Springfield 70</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Ammo:(.308)
 						Fire Rate:(1x)
 						</p>
@@ -1126,7 +1127,7 @@ CONTENTS;
 					<h2>EXPLOSIVES</h2>
 
 					<h3>Pineapple</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Does 1d8 damage to 1d4 enemies in a 10ft radius 
 						around impact point. Doesn't taste as good 
 						as advertised. 
@@ -1134,7 +1135,7 @@ CONTENTS;
 
 
 					<h3>Frag Mine</h3>
-					<p class="subtext">
+					<p class="skilltext">
 						Much like its throw-able counterpart. 
 						Deals 1d8 damage to 1d4 enemies around 10ft 
 						from its impact point.

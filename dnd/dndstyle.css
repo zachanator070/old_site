@@ -377,7 +377,7 @@ and (min-width : 1224px) {
 	}
 	
 	h2{
-	margin: 0px 40px;
+	margin: 15px 40px;
 	
 	}
 	
@@ -419,15 +419,15 @@ and (min-width : 1224px) {
 	}
 	
 	h3{
-	margin:0px 80px;
+	margin:15px 80px;
 	}
 	
 	table.saves{
 	margin:0px 80px;
 	}
 	
-	p.subtext{
-		margin-left:20px;
+	p.skilltext{
+		margin-left:100px;
 	}
 	
 	img.inline{
