@@ -886,7 +886,7 @@ CONTENTS;
 
 					<h2>Metal</h2>
 					
-					<h3>Scrap Metal (100 voltz)</h3>
+					<h3>Scrap Metal</h3>
 					<p class="skilltext">
 						Represents 1 lb of small metal objects. Items may be 
 						converted to scrap metal but not vice-versa. Used in
@@ -1027,8 +1027,9 @@ CONTENTS;
 					damage = bullet damage + weapon damage
 					</p>
 					
-					<p>
+					
 					<h3>Weight Conversion</h3>
+					<p>
 					*20 shells = 1 lb*
 					</p>
 					
@@ -1041,9 +1042,7 @@ CONTENTS;
 						.45 <br/>
 						.30 <br/>
 						.308 <br/>
-						<br/><br/>
-						shell <br/>
-						slug 
+						shell<br/>
 					</p>
 					
 					<h3>Damage per bullet type</h3>
@@ -1052,6 +1051,8 @@ CONTENTS;
 						Armor Penetrating = +2<br/>
 						Explosive = +2<br/>
 						Dragons Breath = +1d4 fire damage<br/>
+						Buck Shot = +1<br/>
+						Slug = +2<br/>
 					</p>
 					
 					<h2>Rifles</h2>
