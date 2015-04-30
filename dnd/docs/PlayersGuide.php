@@ -56,12 +56,12 @@ CONTENTS;
 						fact that your mom told you how special you really were, you never 
 						really quite achieved anything in life besides winning the 4th grade
 						spelling bee. Being average these days, however, is quite rare.
-						
+					</p>
 						<ul>
 						<li>1 extra feat</li>
 						<li>4 extra skill points to start with</li>
 						</ul>
-					</p>
+					
 					<br/>
 					
 					
@@ -71,14 +71,14 @@ CONTENTS;
 						ailments are no more. You may choose robotic limbs of your liking 
 						and you are able to get future upgrades for them in the future, 
 						dependent upon the fact that you can find someone to do it.
-						
+					</p>	
 						<ul>
 						<li>+1 strength</li>
 						<li>+1 constitution</li>
 						<li>-2 dexterity</li>
 						<li>has potential for limb replacement upgrades</li>
 						</ul>
-					</p>
+					
 					<br/>
 									
 					
@@ -92,7 +92,7 @@ CONTENTS;
 						blessed with the gift, or curse, of an extended life. Your average 
 						ghoul can have a nice life of 300 years, that is, of course, if he 
 						makes it that long.
-
+					</p>
 						<ul>
 						<li>+1 wisdom</li>
 						<li>+1 constitution</li>
@@ -100,7 +100,7 @@ CONTENTS;
 						<li>+5 radiation resistance</li>
 						<li>Terrifying Presence feat</li>
 						</ul>
-					</p>
+					
 					<br/>
 
 					
@@ -113,13 +113,14 @@ CONTENTS;
 						extra pistol or the fact that your alien sized eyes	make you see 
 						things with much more clarity. But beware, no blessing is without
 						its curse. Choose wisely.
-						
+					</p>
+						<ul>
 						<li>1 helpful abnormality</li>
 						<li>1 inhibiting mutation</li>
 						<li>-3 radiation resistance</li>
 						<li>+1 intelligence</li>
 						</ul>
-					</p>
+					
 					<br/>
 
 					<hr>
