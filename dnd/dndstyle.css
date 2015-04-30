@@ -290,6 +290,20 @@ and (min-width : 1224px) {
 		text-align:center;
 	}
 	
+	a.link{
+	color:white;
+	text-decoration:none;
+	}
+	
+	a.link:hover{
+	color: white;
+	cursor:pointer;
+	text-decoration:underline;
+	}
+
+	a.link:visited{
+	color:white;
+	}
 	
 	#link1{
 	position:absolute;
@@ -336,7 +350,7 @@ and (min-width : 1224px) {
 	border-right: thick solid #66acc6;
 	border-top: thin solid #66acc6;
 	margin-bottom:85px;
-	padding:10px;
+	padding:30px 50px;
 	}
 	
 	a{
@@ -353,19 +367,17 @@ and (min-width : 1224px) {
 	color:#66acc6;
 	}
 	
-	a.link{
-	color:white;
-	text-decoration:none;
+	p{
+	line-height: 1.45;
+	word-spacing: 0.3px;
+	font-size: 13px;
+	letter-spacing: 0.25px;
+	margin: 0px 80px;
 	}
 	
-	a.link:hover{
-	color: white;
-	cursor:pointer;
-	text-decoration:underline;
-	}
-
-	a.link:visited{
-	color:white;
+	h2{
+	margin: 0px 40px;
+	
 	}
 	
 	input[type="text"], textarea, input[type="password"] {
