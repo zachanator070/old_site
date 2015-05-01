@@ -18,7 +18,7 @@ and (max-device-width : 640px){
 
 	#links{
 	left: 0px;
-	width:80%;
+	width:70%;
 	height:10%;
 	font-size:60%;
 	display:inline-flex;
