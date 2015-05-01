@@ -314,7 +314,7 @@ and (min-width : 1224px) {
 	text-decoration:underline;
 	}
 	
-	button{
+	button,input[type="submit"]{
 	background: linear-gradient(270deg, #66Acc6, #072E3C);
 	background-size: 400% 400%;
 	-webkit-animation: AnimationName 5s ease infinite;
