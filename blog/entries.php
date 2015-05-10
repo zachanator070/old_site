@@ -15,4 +15,5 @@ echo "<li><a href='death.php' class='entrylink'>CS Almost Killed Me</a></li>";
 echo "<li><a href='dnd.php' class='entrylink'>DnD Night</a></li>";
 echo "<li><a href='church.php' class='entrylink'>Churchy Stuff</a></li>";
 echo "<li><a href='conferance.php' class='entrylink'>General Conference</a></li>";
+echo "<li><a href='mom.php' class='entrylink'>Mother's Day</a></li>";
 ?>
