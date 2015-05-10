@@ -36,10 +36,10 @@
 					conversation that went something like this:
 					</p>
 					<p>
-					me: Hey mom I want to do X.
-					mom: Well you haven't done A,B,C or D yet.
-					me: But mom that is going to take forever!!
-					mom: Well next time you should plan better.
+					me: Hey mom I want to do X.<br/>
+					mom: Well you haven't done A,B,C or D yet.<br/>
+					me: But mom that is going to take forever!!<br/>
+					mom: Well next time you should plan better.<br/>
 					</p>
 					<p>
 					So after this happened to me about 923879237 times I finally was able to 
