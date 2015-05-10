@@ -52,7 +52,6 @@
 					If you want to go out with friends, tell your mom days in advance so she can't pull
 					last minute chores on you. 
 					</p>
-					<img align="center" width="600px" height="400px" src="pics/momajohnson.jpg" />
 					
 					<p>
 					The next fond memory I have of my mother was on a hot summer's day in Texas. Now, as a 
@@ -88,6 +87,7 @@
 					into a child and then suddenly have them acting and choosing on their own. It is something that I will credit to my
 					parents who have taught me what to live for and how. 
 					</p>
+					<img align="center" width="600px" height="400px" src="pics/momajohnson.jpg" />
 					<p>
 					Thank you so much mom for all that you do and for the wonderful life that you have prepared me for. One day I hope 
 					that I can make it up to you whether it be in this life or the next.
