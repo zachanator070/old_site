@@ -2,6 +2,8 @@
 
 require_once __DIR__ . '/vendor/autoload.php';
 
+session_start();
+
 # login.php
 $fb = new Facebook\Facebook([
   'app_id' => '1642711959335354',

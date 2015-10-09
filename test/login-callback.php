@@ -1,4 +1,8 @@
-require_once __DIR__ . '/vendor/autoload.php';
+<?php
+
+session_start();
+
+ require_once __DIR__ . '/vendor/autoload.php';
 
 $fb = new Facebook\Facebook([
   'app_id' => '1642711959335354',
@@ -42,3 +46,6 @@ try {
 $user = $response->getGraphUser();
 
 echo 'Name: ' . $user['name'];
+
+
+?>
