@@ -51,7 +51,14 @@
 
           $graphObject = $response->getGraphEdge();
 
-          return var_dump($graphObject);
+          $posts;
+
+          foreach ($graphEdge as $graphNode) {
+            $posts.= $graphNode["story"];
+            $posts.="</br>";
+          }
+
+          return $posts;
 
     }
 
