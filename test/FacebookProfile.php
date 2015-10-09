@@ -49,7 +49,7 @@
             exit;
           }
 
-          $graphEdge = $response->getGraphEdge();
+          //$graphEdge = $response->getGraphEdge();
 
           $graphUser = $response->getGraphUser();
 
@@ -60,12 +60,14 @@
             $posts.="</br>";
           }
 
+
+          /*
           $posts.="<h1>User Profile Feed</h1>";
 
           foreach ($graphEdge as $key => $value) {
             $posts.= $key.=" :: ".$value;
             $posts.="</br>";
-          }
+          }*/
 
           return $posts;
 
