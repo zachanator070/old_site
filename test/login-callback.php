@@ -14,8 +14,11 @@ $fb = new Facebook\Facebook([
 //get access token
 $helper = $fb->getCanvasHelper();
 
+$accessToken;
+
 try {
   $accessToken = $helper->getAccessToken();
+
 } catch(Facebook\Exceptions\FacebookResponseException $e) {
   // When Graph returns an error
   echo 'Graph returned an error: ' . $e->getMessage();
@@ -25,6 +28,8 @@ try {
   echo 'Facebook SDK returned an error: ' . $e->getMessage();
   exit;
 }
+
+
 
 if (! isset($accessToken)) {
   echo 'No OAuth data could be obtained from the signed request. User has not authorized your app yet.';
