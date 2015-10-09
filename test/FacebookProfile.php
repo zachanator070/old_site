@@ -51,6 +51,8 @@
 
           $graphEdge = $response->getGraphEdge();
 
+          error_log($graphEdge);
+
           $posts="";
 
           foreach ($graphEdge as $key => $value) {
