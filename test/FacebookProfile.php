@@ -91,13 +91,14 @@
         $posts.="</br>";
       }
 
+      return $posts;
 
     }
 
   }
 
   $profile = new FacebookProfile();
-  //echo $profile->getUserData();
+  echo $profile->getUserData();
   echo $profile->getFeedData();
 
  ?>
