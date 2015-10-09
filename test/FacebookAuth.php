@@ -92,7 +92,7 @@ class FacebookAuth{
   }
 
   public function setAccessToken(){
-    $_SESSION['fb_access_token'] = (string) $this->accessToken;
+    $_SESSION['fb_access_token'] = $this->accessToken;
   }
 
 
