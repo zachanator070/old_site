@@ -48,8 +48,6 @@
             exit;
           }
 
-          //$graphEdge = $response->getGraphEdge();
-
           $graphUser = $response->getGraphUser();
 
           $posts="<h1>User Information</h1>";
@@ -82,8 +80,6 @@
         exit;
       }
 
-      //$graphEdge = $response->getGraphEdge();
-
       $graphEdge = $response->getGraphEdge();
 
       $posts = "";
@@ -101,7 +97,7 @@
   }
 
   $profile = new FacebookProfile();
-  echo $profile->getUserData();
+  //echo $profile->getUserData();
   echo $profile->getFeedData();
 
  ?>
