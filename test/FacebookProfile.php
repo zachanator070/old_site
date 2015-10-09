@@ -38,7 +38,7 @@
           $request->setAccessToken($this->accessToken);
           // Send the request to Graph
           try {
-            $response = $fb->getClient()->sendRequest($request);
+            $response = $this->fb->getClient()->sendRequest($request);
           } catch(Facebook\Exceptions\FacebookResponseException $e) {
             // When Graph returns an error
             echo 'Graph returned an error: ' . $e->getMessage();
