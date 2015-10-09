@@ -89,7 +89,7 @@
       foreach ($graphEdge as $index => $json) {
         $posts.= $index.=" :: </br>";
         foreach($json as $key => $value){
-            $posts.=$key." ->".((string)$value)."</br>";
+            $posts.=$key." ->".$value.toString()."</br>";
         }
 
       }
