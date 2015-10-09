@@ -33,7 +33,7 @@
     public function getUserData(){
 
 
-          $request = $this->fb->request('GET', '/me/feed');
+          $request = $this->fb->request('GET', '/me');
           $request->setApp($this->fbApp);
           $request->setAccessToken($this->accessToken);
           // Send the request to Graph
