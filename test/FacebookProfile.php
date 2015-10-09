@@ -53,8 +53,8 @@
 
           $posts="";
 
-          foreach ($graphEdge as $graphNode) {
-            $posts.= $graphNode["story"];
+          foreach ($graphEdge as $key => $value) {
+            $posts.= $key.=" :: ".$value;
             $posts.="</br>";
           }
 
