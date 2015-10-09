@@ -27,7 +27,6 @@
           $this->fbApp = new Facebook\FacebookApp($this->config['app_id'], $this->config['app_secret']);
 
           $this->accessToken = $_SESSION['fb_access_token'];
-          error_log($this->accessToken);
     }
 
 
@@ -52,9 +51,16 @@
 
           $graphEdge = $response->getGraphEdge();
 
-          error_log($graphEdge);
+          $graphUser;
 
-          $posts="";
+          $posts="<h1>User Information</h1>";
+
+          foreach ($graphUser as $key => $value) {
+            $posts.= $key.=" :: ".$value;
+            $posts.="</br>";
+          }
+
+          $posts.="<h1>User Profile Feed</h1>";
 
           foreach ($graphEdge as $key => $value) {
             $posts.= $key.=" :: ".$value;
