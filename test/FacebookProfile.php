@@ -51,7 +51,7 @@
 
           $graphEdge = $response->getGraphEdge();
 
-          $graphUser; = $response->getGraphUser();
+          $graphUser = $response->getGraphUser();
 
           $posts="<h1>User Information</h1>";
 
