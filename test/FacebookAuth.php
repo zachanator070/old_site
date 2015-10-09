@@ -61,6 +61,12 @@ class FacebookAuth{
 
     $this->getLongAccessToken();
 
+    $request = new Facebook\FacebookRequest($this->fb, $this->accessToken, 'GET', '/me/feed');
+    $response = $request->execute();
+    $graphObject = $response->getGraphObject();
+
+    return var_dump($graphObject);
+
   }
 
   private function getLongAccessToken(){

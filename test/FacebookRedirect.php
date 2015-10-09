@@ -6,6 +6,6 @@
   $auth->getAccessToken();
   $auth->setAccessToken();
 
-  header("Location: FacebookProfile.php");
+  //header("Location: FacebookProfile.php");
 
  ?>
