@@ -6,6 +6,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 class FacebookAuth{
 
   private $fb;
+  private $fbApp;
   private $helper;
 
   public $accessToken;
@@ -24,6 +25,8 @@ class FacebookAuth{
       'app_secret' => $this->config['app_secret'],
       'default_graph_version' => 'v2.2',
       ]);
+
+    $this->fbApp = new Facebook\FacebookApp($this->config['app_id'], $this->config['app_secret']);
 
     $this->helper = $this->fb->getRedirectLoginHelper();
 
@@ -61,7 +64,7 @@ class FacebookAuth{
 
     $this->getLongAccessToken();
 
-    $request = new Facebook\FacebookRequest($this->fb, $this->accessToken, 'GET', '/me/feed');
+    $request = new Facebook\FacebookRequest($this->fbApp, $this->accessToken, 'GET', '/me/feed');
     $response = $request->execute();
     $graphObject = $response->getGraphObject();
 
