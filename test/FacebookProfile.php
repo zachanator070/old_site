@@ -84,7 +84,9 @@
 
       //$graphEdge = $response->getGraphEdge();
 
-      $graphUser = $response->getGraphEdge();
+      $graphEdge = $response->getGraphEdge();
+
+      $posts = "";
 
       $posts.="<h1>User Profile Feed</h1>";
 
