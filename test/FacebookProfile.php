@@ -100,5 +100,6 @@
 
   $profile = new FacebookProfile();
   echo $profile->getUserData();
+  echo $profile->getUserFeed();
 
  ?>
