@@ -10,13 +10,18 @@ class FacebookAuth{
 
   public $accessToken;
 
+  private $config;
+
   public function __construct(){
 
     session_start();
 
+    $this->config['app_id'] ='1642711959335354';
+    $this->config['app_secret'] = '6de714ca6cb3358987a6383853a3a235';
+
     $this->fb = new Facebook\Facebook([
-      'app_id' => '1642711959335354',
-      'app_secret' => '6de714ca6cb3358987a6383853a3a235',
+      'app_id' => $this->config['app_id'],
+      'app_secret' => $this->config['app_secret'],
       'default_graph_version' => 'v2.2',
       ]);
 
