@@ -32,7 +32,6 @@
 
     public function getUserData(){
 
-
           $request = $this->fb->request('GET', '/me');
           $request->setApp($this->fbApp);
           $request->setAccessToken($this->accessToken);
@@ -60,16 +59,40 @@
             $posts.="</br>";
           }
 
-
-          /*
-          $posts.="<h1>User Profile Feed</h1>";
-
-          foreach ($graphEdge as $key => $value) {
-            $posts.= $key.=" :: ".$value;
-            $posts.="</br>";
-          }*/
-
           return $posts;
+
+    }
+
+    public function getFeedData(){
+
+
+      $request = $this->fb->request('GET', '/me/feed');
+      $request->setApp($this->fbApp);
+      $request->setAccessToken($this->accessToken);
+      // Send the request to Graph
+      try {
+        $response = $this->fb->getClient()->sendRequest($request);
+      } catch(Facebook\Exceptions\FacebookResponseException $e) {
+        // When Graph returns an error
+        echo 'Graph returned an error: ' . $e->getMessage();
+        exit;
+      } catch(Facebook\Exceptions\FacebookSDKException $e) {
+        // When validation fails or other local issues
+        echo 'Facebook SDK returned an error: ' . $e->getMessage();
+        exit;
+      }
+
+      //$graphEdge = $response->getGraphEdge();
+
+      $graphUser = $response->getGraphEdge();
+
+      $posts.="<h1>User Profile Feed</h1>";
+
+      foreach ($graphEdge as $key => $value) {
+        $posts.= $key.=" :: ".$value;
+        $posts.="</br>";
+      }
+
 
     }
 
