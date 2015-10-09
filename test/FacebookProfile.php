@@ -49,7 +49,7 @@
             exit;
           }
 
-          $graphNode = $response->getGraphNode();
+          $graphObject = $response->getGraphEdge();
 
           return var_dump($graphObject);
 
