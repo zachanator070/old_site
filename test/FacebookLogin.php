@@ -18,7 +18,7 @@ class FacebookLogin{
       'default_graph_version' => 'v2.2',
       ]);
 
-      $this->helper = $fb->getRedirectLoginHelper();
+      $this->helper = $this->fb->getRedirectLoginHelper();
   }
 
   public function getContent(){
