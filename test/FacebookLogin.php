@@ -1,3 +1,5 @@
+<?php
+
 require_once __DIR__ . '/vendor/autoload.php';
 
 # login.php
@@ -12,3 +14,5 @@ $permissions = ['email', 'user_likes']; // optional
 $loginUrl = $helper->getLoginUrl('http://thezachcave.com/test/login-callback.php', $permissions);
 
 echo '<a href="' . $loginUrl . '">Log in with Facebook!</a>';
+
+?>
