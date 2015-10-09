@@ -87,10 +87,7 @@
       $posts.="<h1>User Profile Feed</h1>";
 
       foreach ($graphEdge as $index => $json) {
-        $posts.= $index.=" :: </br>";
-        foreach($json as $key => $value){
-            $posts.=$key." ->".$value.toString()."</br>";
-        }
+        $posts.= $index.=" :: ".$json."</br>";
 
       }
 
