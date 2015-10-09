@@ -27,6 +27,7 @@
           $this->fbApp = new Facebook\FacebookApp($this->config['app_id'], $this->config['app_secret']);
 
           $this->accessToken = $_SESSION['fb_access_token'];
+          error_log($this->accessToken);
     }
 
 
