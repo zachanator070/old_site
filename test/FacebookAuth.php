@@ -28,7 +28,7 @@ class FacebookAuth{
 
     try {
 
-      $this->accessToken = $helper->getAccessToken();
+      $this->accessToken = $this->helper->getAccessToken();
 
     } catch(Facebook\Exceptions\FacebookResponseException $e) {
       // When Graph returns an error
