@@ -49,7 +49,7 @@
             exit;
           }
 
-          $graphObject = $response->getGraphEdge();
+          $graphEdge = $response->getGraphEdge();
 
           $posts="";
 
