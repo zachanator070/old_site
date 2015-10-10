@@ -1,11 +1,20 @@
-<?php
 
-  include_once "FacebookLogin.php";
+<html>
 
+  <body>
+    <?php
 
-  $fbLink = new FacebookLogin();
+      include_once "FacebookLogin.php";
 
-  echo $fbLink->getContent();
+    //create a new element that displays html
+      $fbLink = new FacebookLogin();
+    //get the content of our facebook link and display it
+      echo $fbLink->getContent();
 
+     ?>
 
- ?>
+     <!--Link to our AJAX script to get the supported languages of lingotek-->
+     <h2><a href="Languages.html">Supported Languages</a></h2>
+
+   </body>
+</html>

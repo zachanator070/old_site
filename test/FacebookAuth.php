@@ -2,6 +2,7 @@
 
 require_once __DIR__ . '/vendor/autoload.php';
 
+include_once "FacebookConf.php";
 
 class FacebookAuth{
 
@@ -10,18 +11,14 @@ class FacebookAuth{
 
   public $accessToken;
 
-  private $config;
-
   public function __construct(){
 
     session_start();
 
-    $this->config['app_id'] ='1642711959335354';
-    $this->config['app_secret'] = '6de714ca6cb3358987a6383853a3a235';
-
+    //create our Facebook object that we will use to interact with the Facebook SDK
     $this->fb = new Facebook\Facebook([
-      'app_id' => $this->config['app_id'],
-      'app_secret' => $this->config['app_secret'],
+      'app_id' => $config['app_id'],
+      'app_secret' => $config['app_secret'],
       'default_graph_version' => 'v2.2',
       ]);
 
@@ -29,6 +26,8 @@ class FacebookAuth{
 
   }
 
+  //used to create an access token from Facebook that we will store in our session
+  //so that we can make authorized requests to a users page later
   public function getAccessToken(){
 
     try {
@@ -45,6 +44,7 @@ class FacebookAuth{
       exit;
     }
 
+    //prints an error from our helper if we did not get an access token
     if (! isset($this->accessToken)) {
       if ($this->helper->getError()) {
         header('HTTP/1.0 401 Unauthorized');
@@ -63,6 +63,8 @@ class FacebookAuth{
 
   }
 
+  //getLongAccessToken will request that our token have a longer lifetime from
+  //the Facebook SDK
   private function getLongAccessToken(){
 
 
@@ -91,6 +93,7 @@ class FacebookAuth{
 
   }
 
+  //takes the access token from our FacebookAuth object and places it into our session
   public function setAccessToken(){
     $_SESSION['fb_access_token'] = $this->accessToken;
   }
@@ -98,10 +101,4 @@ class FacebookAuth{
 
 }
 
-
-
-
-// User is logged in with a long-lived access token.
-// You can redirect them to a members-only page.
-// header('Location: https://example.com/members.php');
 ?>

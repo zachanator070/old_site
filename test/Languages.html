@@ -1,0 +1,46 @@
+<html>
+
+<head>
+
+  <script>
+
+    //requests the JSON objects to  be retreived from Lingotek
+    function RequestJson(){
+      var xmlhttp = new XMLHttpRequest();
+      var url = "http://gmc.lingotek.com/language";
+
+      xmlhttp.onreadystatechange = function() {
+          if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+              var myArr = JSON.parse(xmlhttp.responseText);
+              UpdateContent(myArr);
+          }
+      }
+      //specify the GET method to get a response from our url
+      xmlhttp.open("GET", url, true);
+      //sends our request asyncronously and will update when we get a response
+      xmlhttp.send();
+
+    }
+
+    //updates the contents of the webpage to display the "languages" attribute of
+    //each object
+    function UpdateContent(arr) {
+        var out = "<h1>Languages Supported</h1><br>";
+        var i;
+        for(i = 0; i < arr.length; i++) {
+            out += "Language"+arr[i].language+"<br>";
+        }
+        document.getElementById("languages").innerHTML = out;
+    }
+
+    //start with requesting our JSON
+    RequestJson();
+  </script>
+
+</head>
+
+<body>
+<div id="languages"></div>
+</body>
+
+</html>
