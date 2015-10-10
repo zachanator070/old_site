@@ -11,8 +11,8 @@
 
       xmlhttp.onreadystatechange = function() {
           if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-              var myArr = xmlhttp.responseText;
-              UpdateContent(myArr);
+              var abreviations = JSON.parse(xmlhttp.responseText);
+              UpdateContent(abreviations);
           }
       }
       //specify the GET method to get a response from our url
@@ -26,11 +26,11 @@
     //each object
     function UpdateContent(arr) {
         var out = "<h1>Languages Supported</h1><br>";
-        // var i;
-        // for(i = 0; i < arr.length; i++) {
-        //     out += "Language"+arr[i].language+"<br>";
-        // }
-        out+=arr;
+        var i;
+        for(var abrev in arr) {
+            out += "Language "+abrev.language+"<br>";
+        }
+        //out+=arr;
         document.getElementById("languages").innerHTML = out;
     }
 
