@@ -28,7 +28,7 @@
         var out = "<h1>Languages Supported</h1><br>";
         var i;
         for(var abrev in arr) {
-            out += "Language "+arr[abrev].language+"<br>";
+            out += abrev" = "+arr[abrev].language+"<br>";
         }
         //out+=arr;
         document.getElementById("languages").innerHTML = out;
