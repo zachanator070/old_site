@@ -11,6 +11,8 @@ class FacebookLogin{
   private $fb;
   private $helper;
 
+  global $conf;
+
   public function __construct(){
 
     session_start();
