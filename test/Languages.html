@@ -12,7 +12,7 @@
       xmlhttp.onreadystatechange = function() {
           if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
               var abreviations = JSON.parse(xmlhttp.responseText);
-              UpdateContent(abreviations);
+              UpdateContent(abreviations,xmlhttp.getAllResponseHeaders());
           }
       }
       //specify the GET method to get a response from our url
@@ -24,7 +24,7 @@
 
     //updates the contents of the webpage to display the "languages" attribute of
     //each object
-    function UpdateContent(arr) {
+    function UpdateContent(arr,headers) {
         var out = "<h1>Languages Supported</h1><br>";
         var i;
         for(var abrev in arr) {
@@ -32,6 +32,7 @@
         }
         //out+=arr;
         document.getElementById("languages").innerHTML = out;
+        document.getElementById("response").innerHTML = headers;
     }
 
     //start with requesting our JSON
@@ -42,6 +43,8 @@
 
 <body>
 <div id="languages"></div>
+<h1>Response</h1>
+<div id="response"></div>
 </body>
 
 </html>
