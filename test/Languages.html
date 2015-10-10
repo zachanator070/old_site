@@ -11,8 +11,10 @@
 
       xmlhttp.onreadystatechange = function() {
           if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+            //parse the JSON
               var abreviations = JSON.parse(xmlhttp.responseText);
-              UpdateContent(abreviations,xmlhttp.getAllResponseHeaders());
+            //update the page
+              UpdateContent(abreviations,xmlhttp.status);
           }
       }
       //specify the GET method to get a response from our url
@@ -32,7 +34,7 @@
         }
         //out+=arr;
         document.getElementById("languages").innerHTML = out;
-        document.getElementById("response").innerHTML = headers;
+        document.getElementById("response").innerHTML ="Response code:"+ headers;
     }
 
     //start with requesting our JSON
@@ -45,6 +47,10 @@
 <div id="languages"></div>
 <h1>Response</h1>
 <div id="response"></div>
+<br>
+Method used: HTTP GET
+<br>
+url = "http://gmc.lingotek.com/language"
 </body>
 
 </html>
