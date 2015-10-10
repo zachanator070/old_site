@@ -11,7 +11,7 @@
 
       xmlhttp.onreadystatechange = function() {
           if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-              var myArr = JSON.parse(xmlhttp.responseText);
+              var myArr = xmlhttp.responseText;
               UpdateContent(myArr);
           }
       }
@@ -26,11 +26,10 @@
     //each object
     function UpdateContent(arr) {
         var out = "<h1>Languages Supported</h1><br>";
-        // var i;
-        // for(i = 0; i < arr.length; i++) {
-        //     out += "Language"+arr[i].language+"<br>";
-        // }
-        out+=arr;
+        var i;
+        for(i = 0; i < arr.length; i++) {
+            out += "Language"+arr[i].language+"<br>";
+        }
         document.getElementById("languages").innerHTML = out;
     }
 
