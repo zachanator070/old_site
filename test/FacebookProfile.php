@@ -59,6 +59,12 @@
             $info.="</br>";
           }
 
+          $info .= "<h1>Response</h1><br>";
+          //displaying info from line 37
+          $info.= "http status code:".$response->getHttpStatusCode()."<br>";
+          $info.= "http headers:".$response->getHeaders()."<br>";
+          $info .= "http body:".$response->getBody()."<br>";
+
           //return our semi parsed JSON
           return $info;
 
