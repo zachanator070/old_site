@@ -4,8 +4,6 @@
   //these are the default global values used for our app to connect to
   //the Facebook SDK
 
-    echo "included conf";
-
     $config = array();
 
     $config['app_id'] ='1642711959335354';

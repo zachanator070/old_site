@@ -14,7 +14,7 @@
      ?>
 
      <!--Link to our AJAX script to get the supported languages of lingotek-->
-     <h2><a href="Languages.html">Supported Languages</a></h2>
+     <a href="Languages.html">Supported Languages</a><
 
    </body>
 </html>
