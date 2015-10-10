@@ -13,6 +13,8 @@ class FacebookAuth{
 
   public function __construct(){
 
+    global $config;
+
     session_start();
 
     //create our Facebook object that we will use to interact with the Facebook SDK

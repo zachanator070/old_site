@@ -17,7 +17,7 @@ class FacebookLogin{
 
     session_start();
 
-    global $conf;
+    global $config;
 
     //declare our facebook object to use to interact with the FacebookSDK
     $this->fb = new Facebook\Facebook([

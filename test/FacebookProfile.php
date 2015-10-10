@@ -15,16 +15,18 @@
 
         session_start();
 
-          $this->fb = new Facebook\Facebook([
-            'app_id' => $config['app_id'],
-            'app_secret' => $config['app_secret'],
-            'default_graph_version' => 'v2.2',
-            ]);
+        global $config;
 
-          $this->fbApp = new Facebook\FacebookApp($config['app_id'], $config['app_secret']);
+        $this->fb = new Facebook\Facebook([
+          'app_id' => $config['app_id'],
+          'app_secret' => $config['app_secret'],
+          'default_graph_version' => 'v2.2',
+          ]);
 
-          //grab our access token from our session
-          $this->accessToken = $_SESSION['fb_access_token'];
+        $this->fbApp = new Facebook\FacebookApp($config['app_id'], $config['app_secret']);
+
+        //grab our access token from our session
+        $this->accessToken = $_SESSION['fb_access_token'];
     }
 
 
