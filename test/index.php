@@ -13,8 +13,10 @@
 
      ?>
 
+     <br>
+
      <!--Link to our AJAX script to get the supported languages of lingotek-->
-     <a href="Languages.html">Supported Languages</a><
+     <a href="Languages.html">Supported Languages</a>
 
    </body>
 </html>
