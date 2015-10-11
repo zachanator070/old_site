@@ -100,7 +100,13 @@
 
         $posts.= "<h2>Index $index</h2><br>";
         foreach($json as $type =>$content){
+          if(gettype($content)==DateTime){
+
+          }
+          else{
             $posts.= $type.=" :: ".$content."</br>";
+          }
+
         }
 
 
