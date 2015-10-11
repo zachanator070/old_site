@@ -62,6 +62,7 @@
 
           $info .= "<h2>Response</h2><br>";
           //displaying info from line 37
+          $posts.="Method: HTTP GET";
           $info.="url = '/me'<br>";
           $info.= "http status code:".$response->getHttpStatusCode()."<br>";
           //$info.= "http headers:".var_dump($response->getHeaders())."<br>";
@@ -119,6 +120,7 @@
 
       $posts .= "<h1>Response</h1><br>";
       //displaying info from line 77
+      $posts.="Method: HTTP GET";
       $posts.="url = '/me/feed'<br>";
       $posts.= "http status code:".$response->getHttpStatusCode()."<br>";
       //$posts.= "http headers:".var_dump($response->getHeaders())."<br>";
