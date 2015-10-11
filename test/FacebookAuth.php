@@ -69,6 +69,7 @@ class FacebookAuth{
   //the Facebook SDK
   private function getLongAccessToken(){
 
+    global $config;
 
     // The OAuth 2.0 client handler helps us manage access tokens
     $oAuth2Client = $this->fb->getOAuth2Client();
