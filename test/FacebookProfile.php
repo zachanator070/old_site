@@ -97,7 +97,12 @@
       $posts.="<h1>User Profile Feed</h1>";
 
       foreach ($graphEdge as $index => $json) {
-        $posts.= $index.=" :: ".$json."</br>";
+
+        $posts.= "<h2>Index $index</h2><br>";
+        foreach($json as $type =>$content){
+            $posts.= $type.=" :: ".$content."</br>";
+        }
+
 
       }
 
