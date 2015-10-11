@@ -4,6 +4,7 @@
 
   include_once("FacebookConf.php");
 
+  //this class will displaty user infomation about the user who logged in
   class FacebookProfile{
 
     private $fb;
@@ -59,7 +60,7 @@
             $info.="</br>";
           }
 
-          $info .= "<h1>Response</h1><br>";
+          $info .= "<h2>Response</h2><br>";
           //displaying info from line 37
           $info.="url = '/me'<br>";
           $info.= "http status code:".$response->getHttpStatusCode()."<br>";
@@ -129,12 +130,5 @@
     }
 
   }
-
-  //make our page object
-  $profile = new FacebookProfile();
-  //print user data for our page
-  echo $profile->getUserData();
-  //print user feed data from our page
-  echo $profile->getFeedData();
 
  ?>
