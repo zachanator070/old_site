@@ -61,8 +61,8 @@
           }
 
           $info .= "<h2>Response</h2><br>";
-          //displaying info from line 37
-          $posts.="Method: HTTP GET";
+          //displaying info from line 38
+          $info.="Method: HTTP GET";
           $info.="url = '/me'<br>";
           $info.= "http status code:".$response->getHttpStatusCode()."<br>";
           //$info.= "http headers:".var_dump($response->getHeaders())."<br>";
