@@ -96,11 +96,15 @@
 
       $posts.="<h1>User Profile Feed</h1>";
 
+      //parse through the JSON object
       foreach ($graphEdge as $index => $json) {
 
         $posts.= "<h2>Index $index</h2><br>";
+
         foreach($json as $type =>$content){
-          if(gettype($content)==DateTime){
+          //wierd case where an field is a DateTime object
+          if(is_a($content, 'DateTime')){
+            $posts.= $type.=" :: ".$contentformat('Y-m-d H:i:s')."</br>";
 
           }
           else{
