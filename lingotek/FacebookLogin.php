@@ -33,7 +33,7 @@ class FacebookLogin{
   public function getContent(){
 
     $permissions = ['email', 'user_likes','user_posts']; // wee need to request these permissions from the user
-    $loginUrl = $this->helper->getLoginUrl('http://thezachcave.com/test/FacebookRedirect.php', $permissions);
+    $loginUrl = $this->helper->getLoginUrl('http://thezachcave.com/lingotek/FacebookRedirect.php', $permissions);
 
     //return our html
     return '<a href="' . $loginUrl . '">Log in with Facebook!</a>';
