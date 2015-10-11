@@ -61,9 +61,9 @@
 
           $info .= "<h1>Response</h1><br>";
           //displaying info from line 37
-          $info.="url = /me";
+          $info.="url = ''/me'<br>";
           $info.= "http status code:".$response->getHttpStatusCode()."<br>";
-          $info.= "http headers:".$response->getHeaders()."<br>";
+          $info.= "http headers:".var_dump($response->getHeaders())."<br>";
           $info .= "http body:".$response->getBody()."<br>";
 
           //return our semi parsed JSON
@@ -100,6 +100,13 @@
         $posts.= $index.=" :: ".$json."</br>";
 
       }
+
+      $posts .= "<h1>Response</h1><br>";
+      //displaying info from line 77
+      $posts.="url = '/me/feed'<br>";
+      $posts.= "http status code:".$response->getHttpStatusCode()."<br>";
+      $posts.= "http headers:".var_dump($response->getHeaders())."<br>";
+      $posts .= "http body:".$response->getBody()."<br>";
 
       //returns a semi parsed JSON
       return $posts;
