@@ -104,7 +104,7 @@
         foreach($json as $type =>$content){
           //wierd case where an field is a DateTime object
           if(is_a($content, 'DateTime')){
-            $posts.= $type.=" :: ".$contentformat('Y-m-d H:i:s')."</br>";
+            $posts.= $type.=" :: ".$content->format('Y-m-d H:i:s')."</br>";
 
           }
           else{
